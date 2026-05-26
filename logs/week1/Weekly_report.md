@@ -106,3 +106,35 @@
         Practice SQL logic evaluation for complex queries.
 
         Deep dive into dictionary comprehension and matrix creation.
+
+
+
+
+        summary what i did 
+
+        explanation topic wise 
+
+        extra work that has been done
+
+        Confusion hard topics 
+
+        step taken to cover them
+
+        faqs
+
+
+        next updates that need to be done
+
+
+
+        what i learnt forthese how it helped.
+
+        ADVANCED SQL CONCEPTS LIKE JOINS GROUP BY HAVING WHERE EXECUTION FLOW PYTHON DATA CHARTS STORY TELLING EDA VISUALISATION ETC 
+
+
+        CONCEPTUAL NDERSTANDIG OF WEB SCRAPPING 
+
+
+        sql PROJECT ON EMPLOYEE MANAGEMENT SYSTEM
+
+        

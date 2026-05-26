@@ -1,0 +1,1001 @@
+Transaction_ID,Customer_ID,City,Transaction_Type,Merchant_Category,Transaction_Amount,Transaction_Status,Transaction_Time,Suspicious_Flag
+TXN100000,1102,Hyderabad,NEFT,Entertainment,166992,Pending,2025-03-12 12:51:00,Yes
+TXN100001,1435,Hyderabad,UPI,Travel,66362,Success,2025-05-04 04:28:00,No
+TXN100002,1860,Kolkata,NEFT,Healthcare,134932,Failed,2025-05-23 03:46:00,Yes
+TXN100003,1270,Ahmedabad,Debit Card,Food,153362,Success,2025-06-23 19:18:00,Yes
+TXN100004,1106,Mumbai,Net Banking,Healthcare,67511,Success,2025-04-16 20:36:00,No
+TXN100005,1071,Chennai,NEFT,Healthcare,23477,Success,2025-01-27 22:51:00,No
+TXN100006,1700,Mumbai,Net Banking,Healthcare,177909,Success,2025-01-29 19:24:00,Yes
+TXN100007,1020,Pune,Debit Card,Travel,38311,Success,2025-03-11 03:01:00,No
+TXN100008,1614,Ahmedabad,UPI,Bills,3844,Success,2025-05-30 15:17:00,No
+TXN100009,1121,Kolkata,IMPS,Healthcare,25095,Success,2025-04-10 12:18:00,No
+TXN100010,1466,Mumbai,NEFT,Shopping,148149,Success,2025-02-03 12:42:00,Yes
+TXN100011,1214,Delhi,IMPS,Entertainment,34642,Failed,2025-03-03 21:28:00,No
+TXN100012,1330,Hyderabad,Debit Card,Travel,10751,Failed,2025-04-10 21:51:00,No
+TXN100013,1458,Pune,NEFT,Food,99339,Pending,2025-06-29 14:35:00,No
+TXN100014,1087,Kolkata,Net Banking,Travel,79031,Success,2025-03-14 06:50:00,No
+TXN100015,1372,Mumbai,Credit Card,Food,102212,Success,2025-05-27 05:05:00,Yes
+TXN100016,1099,Chennai,IMPS,Travel,16815,Success,2025-04-26 14:14:00,No
+TXN100017,1871,Delhi,NEFT,Food,175581,Success,2025-05-28 08:31:00,Yes
+TXN100018,1663,Delhi,IMPS,Healthcare,155478,Success,2025-05-12 17:17:00,Yes
+TXN100019,1130,Mumbai,NEFT,Bills,150258,Success,2025-01-05 19:22:00,Yes
+TXN100020,1661,Hyderabad,UPI,Food,145548,Success,2025-05-06 10:36:00,Yes
+TXN100021,1308,Mumbai,Net Banking,Food,61450,Success,2025-01-22 03:28:00,No
+TXN100022,1769,Pune,IMPS,Shopping,71525,Failed,2025-02-13 01:12:00,No
+TXN100023,1343,Mumbai,Credit Card,Food,167808,Success,2025-02-11 08:41:00,Yes
+TXN100024,1491,Delhi,Credit Card,Shopping,86220,Failed,2025-04-05 06:03:00,No
+TXN100025,1413,Kolkata,Debit Card,Entertainment,114989,Success,2025-05-27 09:29:00,Yes
+TXN100026,1805,Mumbai,NEFT,Healthcare,182821,Success,2025-06-08 02:56:00,Yes
+TXN100027,1385,Hyderabad,IMPS,Shopping,165782,Success,2025-03-26 18:30:00,Yes
+TXN100028,1191,Ahmedabad,Debit Card,Bills,141230,Success,2025-02-01 01:58:00,Yes
+TXN100029,1955,Kolkata,IMPS,Healthcare,74737,Success,2025-04-26 09:01:00,No
+TXN100030,1276,Chennai,NEFT,Shopping,70294,Success,2025-03-01 23:16:00,No
+TXN100031,1160,Bangalore,Credit Card,Healthcare,77017,Success,2025-04-06 15:15:00,No
+TXN100032,1459,Mumbai,UPI,Healthcare,64300,Success,2025-02-15 06:52:00,No
+TXN100033,1313,Hyderabad,Credit Card,Healthcare,105948,Success,2025-06-08 10:23:00,Yes
+TXN100034,1021,Kolkata,Debit Card,Entertainment,106122,Pending,2025-05-09 10:54:00,Yes
+TXN100035,1252,Hyderabad,Net Banking,Bills,177791,Success,2025-03-26 03:06:00,Yes
+TXN100036,1747,Chennai,UPI,Travel,148326,Success,2025-06-03 14:49:00,Yes
+TXN100037,1856,Delhi,Debit Card,Travel,150711,Success,2025-05-20 16:32:00,Yes
+TXN100038,1560,Hyderabad,NEFT,Shopping,60158,Success,2025-04-02 00:46:00,No
+TXN100039,1474,Kolkata,UPI,Healthcare,62168,Success,2025-04-16 06:01:00,No
+TXN100040,1058,Hyderabad,Debit Card,Shopping,100032,Success,2025-04-16 23:03:00,Yes
+TXN100041,1510,Hyderabad,NEFT,Entertainment,161545,Pending,2025-04-18 18:25:00,Yes
+TXN100042,1681,Hyderabad,Credit Card,Entertainment,164326,Success,2025-02-09 17:42:00,Yes
+TXN100043,1475,Pune,Net Banking,Food,137203,Failed,2025-03-16 12:02:00,Yes
+TXN100044,1699,Pune,NEFT,Entertainment,22885,Failed,2025-01-12 02:41:00,No
+TXN100045,1975,Delhi,IMPS,Food,159841,Success,2025-01-27 16:53:00,Yes
+TXN100046,1782,Mumbai,NEFT,Bills,94575,Success,2025-02-18 15:01:00,No
+TXN100047,1189,Hyderabad,NEFT,Shopping,2382,Pending,2025-03-01 21:29:00,No
+TXN100048,1957,Chennai,Net Banking,Bills,165796,Success,2025-03-25 05:27:00,Yes
+TXN100049,1686,Mumbai,IMPS,Entertainment,179610,Success,2025-01-25 09:59:00,Yes
+TXN100050,1957,Chennai,Debit Card,Bills,67634,Pending,2025-02-11 07:32:00,No
+TXN100051,1562,Mumbai,Debit Card,Bills,162877,Success,2025-03-18 23:40:00,Yes
+TXN100052,1875,Delhi,NEFT,Bills,169416,Success,2025-04-28 09:46:00,Yes
+TXN100053,1566,Hyderabad,IMPS,Entertainment,75064,Success,2025-06-14 21:15:00,No
+TXN100054,1243,Hyderabad,IMPS,Healthcare,168609,Success,2025-01-22 19:49:00,Yes
+TXN100055,1831,Bangalore,Net Banking,Bills,119106,Success,2025-04-17 08:15:00,Yes
+TXN100056,1504,Chennai,Credit Card,Food,50683,Success,2025-06-11 01:11:00,No
+TXN100057,1130,Mumbai,Debit Card,Entertainment,38492,Success,2025-06-17 08:11:00,No
+TXN100058,1484,Mumbai,Net Banking,Bills,7561,Success,2025-03-31 08:09:00,No
+TXN100059,1818,Ahmedabad,UPI,Healthcare,100223,Success,2025-04-06 01:47:00,Yes
+TXN100060,1646,Ahmedabad,Debit Card,Entertainment,10616,Success,2025-01-20 06:59:00,No
+TXN100061,1020,Pune,Net Banking,Travel,148686,Success,2025-03-07 00:50:00,Yes
+TXN100062,1840,Bangalore,Debit Card,Healthcare,121351,Success,2025-05-04 03:23:00,Yes
+TXN100063,1166,Kolkata,Credit Card,Food,167440,Success,2025-06-04 01:30:00,Yes
+TXN100064,1273,Ahmedabad,UPI,Bills,167960,Success,2025-02-26 13:01:00,Yes
+TXN100065,1387,Kolkata,Credit Card,Travel,192221,Success,2025-01-29 14:11:00,Yes
+TXN100066,1600,Pune,UPI,Travel,62593,Failed,2025-04-11 19:38:00,No
+TXN100067,1315,Pune,NEFT,Entertainment,36127,Success,2025-01-24 20:09:00,No
+TXN100068,1013,Pune,Net Banking,Travel,93647,Success,2025-04-20 13:36:00,No
+TXN100069,1241,Chennai,UPI,Food,174021,Success,2025-05-26 23:13:00,Yes
+TXN100070,1776,Chennai,Credit Card,Food,100227,Success,2025-06-11 11:21:00,Yes
+TXN100071,1345,Delhi,Debit Card,Shopping,149030,Success,2025-02-05 12:35:00,Yes
+TXN100072,1564,Delhi,UPI,Food,79103,Success,2025-01-22 13:15:00,No
+TXN100073,1897,Pune,Net Banking,Healthcare,183567,Success,2025-04-10 23:24:00,Yes
+TXN100074,1339,Bangalore,UPI,Travel,39858,Success,2025-04-06 00:44:00,No
+TXN100075,1091,Mumbai,IMPS,Food,54412,Success,2025-06-13 19:17:00,No
+TXN100076,1366,Chennai,Debit Card,Entertainment,68770,Success,2025-02-07 02:22:00,No
+TXN100077,1955,Bangalore,Net Banking,Shopping,82379,Success,2025-04-19 15:58:00,No
+TXN100078,1454,Hyderabad,Net Banking,Travel,15534,Success,2025-05-29 07:50:00,No
+TXN100079,1427,Chennai,NEFT,Shopping,195219,Success,2025-05-20 15:16:00,Yes
+TXN100080,1508,Chennai,Credit Card,Travel,178947,Success,2025-03-28 13:06:00,Yes
+TXN100081,1775,Delhi,NEFT,Entertainment,75869,Success,2025-02-15 14:43:00,No
+TXN100082,1942,Mumbai,Net Banking,Shopping,66777,Success,2025-05-25 08:53:00,No
+TXN100083,1034,Mumbai,Debit Card,Bills,83655,Success,2025-02-13 01:04:00,No
+TXN100084,1205,Ahmedabad,UPI,Healthcare,128479,Success,2025-04-19 19:22:00,Yes
+TXN100085,1080,Kolkata,UPI,Healthcare,176906,Success,2025-04-14 13:14:00,Yes
+TXN100086,1931,Kolkata,Debit Card,Travel,101765,Success,2025-02-12 00:52:00,Yes
+TXN100087,1561,Kolkata,Net Banking,Bills,171775,Success,2025-01-31 02:16:00,Yes
+TXN100088,1871,Kolkata,UPI,Shopping,68903,Failed,2025-03-24 13:53:00,No
+TXN100089,1387,Hyderabad,UPI,Bills,170504,Success,2025-02-01 07:12:00,Yes
+TXN100090,1001,Hyderabad,UPI,Bills,91803,Success,2025-02-04 04:08:00,No
+TXN100091,1389,Chennai,Credit Card,Shopping,21412,Success,2025-01-29 05:24:00,No
+TXN100092,1565,Pune,Credit Card,Entertainment,175351,Success,2025-04-05 21:01:00,Yes
+TXN100093,1105,Delhi,IMPS,Bills,118061,Success,2025-06-22 04:59:00,Yes
+TXN100094,1771,Delhi,NEFT,Bills,40479,Success,2025-03-30 07:54:00,No
+TXN100095,1821,Kolkata,Debit Card,Entertainment,17397,Success,2025-05-09 19:43:00,No
+TXN100096,1476,Chennai,Debit Card,Bills,2111,Failed,2025-03-28 10:38:00,No
+TXN100097,1702,Ahmedabad,Debit Card,Bills,120334,Success,2025-02-23 23:10:00,Yes
+TXN100098,1401,Bangalore,IMPS,Bills,44114,Failed,2025-06-06 21:25:00,No
+TXN100099,1729,Pune,Credit Card,Healthcare,142910,Success,2025-01-16 02:19:00,Yes
+TXN100100,1555,Chennai,Net Banking,Food,94433,Success,2025-02-15 02:00:00,No
+TXN100101,1161,Pune,Net Banking,Entertainment,178670,Success,2025-05-07 20:46:00,Yes
+TXN100102,1201,Pune,IMPS,Bills,11220,Success,2025-05-09 16:01:00,No
+TXN100103,1957,Pune,Net Banking,Healthcare,139939,Success,2025-06-06 19:05:00,Yes
+TXN100104,1995,Chennai,Debit Card,Entertainment,22952,Success,2025-01-08 15:50:00,No
+TXN100105,1269,Kolkata,NEFT,Travel,79339,Success,2025-06-10 02:59:00,No
+TXN100106,1862,Delhi,UPI,Travel,132101,Success,2025-06-12 04:26:00,Yes
+TXN100107,1815,Delhi,Credit Card,Bills,91675,Success,2025-04-18 11:19:00,No
+TXN100108,1270,Kolkata,Credit Card,Healthcare,95140,Failed,2025-04-19 19:08:00,No
+TXN100109,1455,Pune,IMPS,Healthcare,148610,Success,2025-06-16 03:50:00,Yes
+TXN100110,1461,Bangalore,Credit Card,Entertainment,179687,Success,2025-01-19 05:26:00,Yes
+TXN100111,1726,Mumbai,Debit Card,Entertainment,5844,Failed,2025-06-22 10:12:00,No
+TXN100112,1251,Chennai,Net Banking,Healthcare,173589,Success,2025-05-21 21:27:00,Yes
+TXN100113,1701,Mumbai,Debit Card,Entertainment,138241,Success,2025-02-21 14:52:00,Yes
+TXN100114,1295,Ahmedabad,IMPS,Healthcare,42459,Success,2025-04-19 21:42:00,No
+TXN100115,1724,Kolkata,Debit Card,Food,150971,Pending,2025-02-11 15:50:00,Yes
+TXN100116,1719,Bangalore,Net Banking,Healthcare,98846,Success,2025-01-26 22:42:00,No
+TXN100117,1748,Chennai,NEFT,Travel,121006,Success,2025-03-18 08:19:00,Yes
+TXN100118,1337,Kolkata,IMPS,Entertainment,7697,Success,2025-02-08 18:11:00,No
+TXN100119,1878,Pune,NEFT,Healthcare,47193,Success,2025-01-11 09:26:00,No
+TXN100120,1052,Delhi,UPI,Healthcare,168398,Success,2025-01-11 05:33:00,Yes
+TXN100121,1791,Mumbai,NEFT,Entertainment,114750,Success,2025-06-20 18:05:00,Yes
+TXN100122,1921,Hyderabad,UPI,Food,157589,Success,2025-06-23 19:37:00,Yes
+TXN100123,1216,Hyderabad,UPI,Food,149865,Success,2025-04-23 09:27:00,Yes
+TXN100124,1763,Bangalore,NEFT,Entertainment,121056,Failed,2025-03-06 02:39:00,Yes
+TXN100125,1187,Pune,IMPS,Shopping,115698,Success,2025-03-13 19:53:00,Yes
+TXN100126,1379,Ahmedabad,Net Banking,Entertainment,184333,Success,2025-06-24 23:06:00,Yes
+TXN100127,1492,Mumbai,Debit Card,Entertainment,133341,Success,2025-01-11 06:03:00,Yes
+TXN100128,1040,Pune,Debit Card,Food,153224,Success,2025-06-02 11:25:00,Yes
+TXN100129,1156,Mumbai,Net Banking,Food,8136,Failed,2025-04-12 13:11:00,No
+TXN100130,1014,Bangalore,UPI,Entertainment,31878,Success,2025-06-20 18:52:00,No
+TXN100131,1812,Bangalore,UPI,Entertainment,158906,Success,2025-06-14 13:52:00,Yes
+TXN100132,1064,Ahmedabad,IMPS,Entertainment,154345,Success,2025-03-29 15:56:00,Yes
+TXN100133,1856,Hyderabad,Credit Card,Food,161575,Success,2025-01-13 21:53:00,Yes
+TXN100134,1838,Pune,NEFT,Entertainment,197493,Success,2025-04-26 21:03:00,Yes
+TXN100135,1520,Chennai,UPI,Entertainment,137516,Success,2025-03-16 16:06:00,Yes
+TXN100136,1343,Hyderabad,Debit Card,Bills,18900,Success,2025-04-20 10:27:00,No
+TXN100137,1128,Pune,IMPS,Shopping,25472,Failed,2025-06-22 22:49:00,No
+TXN100138,1647,Hyderabad,NEFT,Travel,61616,Success,2025-01-28 10:46:00,No
+TXN100139,1471,Chennai,IMPS,Shopping,20638,Success,2025-02-26 21:28:00,No
+TXN100140,1062,Delhi,NEFT,Bills,64018,Success,2025-04-07 03:13:00,No
+TXN100141,1138,Delhi,NEFT,Travel,146145,Success,2025-03-19 02:29:00,Yes
+TXN100142,1498,Ahmedabad,Net Banking,Entertainment,71255,Success,2025-04-02 16:02:00,No
+TXN100143,1592,Delhi,UPI,Bills,59600,Success,2025-06-07 19:28:00,No
+TXN100144,1391,Delhi,IMPS,Entertainment,167747,Success,2025-06-22 14:45:00,Yes
+TXN100145,1674,Kolkata,IMPS,Food,173433,Pending,2025-06-28 05:41:00,Yes
+TXN100146,1418,Mumbai,Net Banking,Healthcare,110759,Success,2025-02-16 20:53:00,Yes
+TXN100147,1288,Kolkata,Debit Card,Bills,27816,Success,2025-06-15 22:24:00,No
+TXN100148,1378,Kolkata,Debit Card,Food,134408,Success,2025-01-07 21:16:00,Yes
+TXN100149,1772,Ahmedabad,UPI,Bills,147020,Success,2025-06-18 09:09:00,Yes
+TXN100150,1489,Kolkata,UPI,Bills,2452,Success,2025-05-15 15:49:00,No
+TXN100151,1230,Delhi,Credit Card,Food,133104,Success,2025-02-21 00:00:00,Yes
+TXN100152,1040,Chennai,Net Banking,Travel,76549,Failed,2025-06-11 03:16:00,No
+TXN100153,1027,Ahmedabad,Debit Card,Shopping,8656,Failed,2025-05-12 10:53:00,No
+TXN100154,1134,Ahmedabad,NEFT,Entertainment,86936,Failed,2025-01-04 00:06:00,No
+TXN100155,1200,Bangalore,IMPS,Bills,136670,Success,2025-06-27 08:34:00,Yes
+TXN100156,1839,Ahmedabad,UPI,Entertainment,50198,Success,2025-01-08 23:18:00,No
+TXN100157,1779,Bangalore,IMPS,Healthcare,195558,Success,2025-02-05 17:51:00,Yes
+TXN100158,1929,Ahmedabad,IMPS,Food,112269,Failed,2025-05-03 10:26:00,Yes
+TXN100159,1032,Mumbai,Credit Card,Entertainment,140741,Success,2025-02-01 13:56:00,Yes
+TXN100160,1047,Delhi,Debit Card,Food,126160,Success,2025-05-26 15:34:00,Yes
+TXN100161,1502,Ahmedabad,UPI,Entertainment,188054,Success,2025-02-16 03:36:00,Yes
+TXN100162,1406,Delhi,IMPS,Shopping,130644,Success,2025-01-17 06:47:00,Yes
+TXN100163,1573,Delhi,UPI,Shopping,440,Success,2025-06-23 15:38:00,No
+TXN100164,1727,Hyderabad,NEFT,Shopping,175121,Success,2025-05-12 21:10:00,Yes
+TXN100165,1804,Ahmedabad,Credit Card,Shopping,82402,Success,2025-03-07 11:11:00,No
+TXN100166,1098,Pune,NEFT,Shopping,193615,Success,2025-02-05 17:25:00,Yes
+TXN100167,1683,Hyderabad,UPI,Shopping,238,Success,2025-01-01 22:25:00,No
+TXN100168,1871,Pune,UPI,Food,131530,Success,2025-05-14 05:43:00,Yes
+TXN100169,1725,Delhi,Debit Card,Bills,119719,Success,2025-06-01 21:18:00,Yes
+TXN100170,1986,Delhi,IMPS,Entertainment,85476,Success,2025-04-11 17:30:00,No
+TXN100171,1546,Hyderabad,IMPS,Shopping,100031,Success,2025-04-11 09:32:00,Yes
+TXN100172,1960,Hyderabad,NEFT,Food,161826,Success,2025-01-12 21:29:00,Yes
+TXN100173,1738,Pune,Credit Card,Food,157051,Success,2025-06-04 06:08:00,Yes
+TXN100174,1612,Bangalore,Net Banking,Food,81632,Success,2025-05-29 11:54:00,No
+TXN100175,1942,Pune,IMPS,Bills,55878,Success,2025-01-29 00:42:00,No
+TXN100176,1461,Hyderabad,Debit Card,Entertainment,37872,Success,2025-04-27 14:01:00,No
+TXN100177,1642,Chennai,NEFT,Bills,58578,Success,2025-06-29 06:52:00,No
+TXN100178,1768,Hyderabad,NEFT,Travel,195525,Success,2025-06-21 21:17:00,Yes
+TXN100179,1004,Chennai,Net Banking,Food,26862,Failed,2025-01-03 06:42:00,No
+TXN100180,1217,Mumbai,Debit Card,Travel,144455,Success,2025-06-15 04:57:00,Yes
+TXN100181,1502,Hyderabad,Credit Card,Healthcare,195094,Success,2025-06-10 11:58:00,Yes
+TXN100182,1766,Mumbai,Debit Card,Shopping,170592,Success,2025-04-05 10:03:00,Yes
+TXN100183,1397,Bangalore,Credit Card,Shopping,55668,Failed,2025-05-03 17:03:00,No
+TXN100184,1870,Pune,Debit Card,Bills,85190,Success,2025-04-23 01:28:00,No
+TXN100185,1794,Chennai,Debit Card,Entertainment,20319,Success,2025-01-22 01:43:00,No
+TXN100186,1392,Pune,UPI,Travel,57269,Success,2025-05-07 05:41:00,No
+TXN100187,1206,Mumbai,NEFT,Entertainment,75065,Success,2025-01-25 22:56:00,No
+TXN100188,1014,Chennai,Debit Card,Bills,178012,Success,2025-03-26 22:58:00,Yes
+TXN100189,1857,Pune,Net Banking,Shopping,175867,Success,2025-05-24 13:38:00,Yes
+TXN100190,1553,Hyderabad,Debit Card,Entertainment,84854,Failed,2025-06-05 18:54:00,No
+TXN100191,1891,Delhi,IMPS,Entertainment,78088,Success,2025-06-26 08:57:00,No
+TXN100192,1460,Mumbai,NEFT,Shopping,189514,Success,2025-06-22 21:31:00,Yes
+TXN100193,1690,Pune,IMPS,Travel,150123,Success,2025-02-11 20:31:00,Yes
+TXN100194,1574,Mumbai,NEFT,Shopping,132479,Success,2025-03-15 06:57:00,Yes
+TXN100195,1863,Kolkata,IMPS,Entertainment,80488,Success,2025-01-15 06:28:00,No
+TXN100196,1742,Mumbai,Debit Card,Travel,90868,Failed,2025-05-03 14:02:00,No
+TXN100197,1240,Chennai,Debit Card,Travel,35528,Success,2025-03-24 09:27:00,No
+TXN100198,1563,Kolkata,UPI,Shopping,92121,Success,2025-01-29 14:34:00,No
+TXN100199,1095,Ahmedabad,Net Banking,Entertainment,118518,Success,2025-01-06 11:46:00,Yes
+TXN100200,1899,Chennai,IMPS,Bills,170147,Success,2025-02-07 12:28:00,Yes
+TXN100201,1733,Delhi,Credit Card,Entertainment,132312,Success,2025-05-27 02:07:00,Yes
+TXN100202,1484,Kolkata,UPI,Food,156014,Success,2025-01-08 22:57:00,Yes
+TXN100203,1406,Ahmedabad,IMPS,Healthcare,26521,Success,2025-03-25 14:03:00,No
+TXN100204,1230,Hyderabad,IMPS,Bills,1808,Success,2025-06-28 20:02:00,No
+TXN100205,1748,Mumbai,UPI,Travel,134802,Success,2025-02-14 07:22:00,Yes
+TXN100206,1654,Pune,Debit Card,Bills,150767,Failed,2025-01-16 12:02:00,Yes
+TXN100207,1170,Bangalore,IMPS,Travel,76121,Success,2025-01-09 13:12:00,No
+TXN100208,1540,Mumbai,Debit Card,Travel,159480,Success,2025-03-12 14:06:00,Yes
+TXN100209,1035,Ahmedabad,UPI,Bills,44889,Success,2025-04-12 01:40:00,No
+TXN100210,1524,Mumbai,Debit Card,Travel,186862,Success,2025-01-22 23:48:00,Yes
+TXN100211,1159,Delhi,NEFT,Travel,26186,Success,2025-06-21 00:09:00,No
+TXN100212,1838,Hyderabad,Credit Card,Food,16959,Failed,2025-04-20 07:55:00,No
+TXN100213,1698,Bangalore,IMPS,Entertainment,7784,Success,2025-04-23 17:11:00,No
+TXN100214,1242,Kolkata,Net Banking,Entertainment,91188,Success,2025-03-30 16:59:00,No
+TXN100215,1085,Kolkata,Credit Card,Healthcare,132379,Success,2025-06-03 13:47:00,Yes
+TXN100216,1795,Kolkata,Debit Card,Healthcare,46199,Success,2025-03-19 08:35:00,No
+TXN100217,1577,Ahmedabad,IMPS,Food,198668,Success,2025-05-01 22:42:00,Yes
+TXN100218,1681,Chennai,Debit Card,Healthcare,66193,Success,2025-05-14 14:04:00,No
+TXN100219,1556,Chennai,NEFT,Bills,160861,Success,2025-06-20 17:12:00,Yes
+TXN100220,1573,Pune,UPI,Shopping,48751,Success,2025-02-12 13:27:00,No
+TXN100221,1952,Bangalore,IMPS,Shopping,13993,Success,2025-05-26 18:55:00,No
+TXN100222,1645,Kolkata,NEFT,Shopping,66518,Success,2025-06-04 14:08:00,No
+TXN100223,1795,Chennai,NEFT,Food,125174,Success,2025-03-09 13:56:00,Yes
+TXN100224,1027,Ahmedabad,IMPS,Food,103165,Success,2025-03-08 07:05:00,Yes
+TXN100225,1619,Pune,Debit Card,Travel,130451,Failed,2025-01-24 15:38:00,Yes
+TXN100226,1555,Hyderabad,Net Banking,Shopping,191183,Success,2025-04-04 12:12:00,Yes
+TXN100227,1339,Pune,NEFT,Bills,38735,Success,2025-01-25 19:53:00,No
+TXN100228,1797,Chennai,Credit Card,Healthcare,187287,Success,2025-03-23 14:17:00,Yes
+TXN100229,1957,Delhi,NEFT,Bills,95171,Success,2025-03-07 09:54:00,No
+TXN100230,1330,Ahmedabad,Net Banking,Healthcare,78618,Success,2025-02-14 17:46:00,No
+TXN100231,1639,Delhi,Debit Card,Shopping,106333,Success,2025-03-04 11:46:00,Yes
+TXN100232,1505,Kolkata,Debit Card,Shopping,103751,Success,2025-04-24 14:56:00,Yes
+TXN100233,1347,Delhi,Credit Card,Shopping,72905,Failed,2025-05-27 02:38:00,No
+TXN100234,1472,Kolkata,NEFT,Food,190126,Success,2025-02-22 13:13:00,Yes
+TXN100235,1230,Kolkata,Debit Card,Healthcare,159236,Success,2025-04-28 12:43:00,Yes
+TXN100236,1189,Chennai,Net Banking,Food,122913,Success,2025-02-20 10:54:00,Yes
+TXN100237,1224,Delhi,IMPS,Food,79163,Success,2025-05-31 23:53:00,No
+TXN100238,1384,Kolkata,UPI,Entertainment,2554,Success,2025-01-19 17:11:00,No
+TXN100239,1376,Bangalore,UPI,Bills,20978,Success,2025-04-02 00:18:00,No
+TXN100240,1282,Hyderabad,UPI,Bills,182270,Success,2025-01-28 19:48:00,Yes
+TXN100241,1957,Pune,NEFT,Travel,193326,Success,2025-02-06 02:33:00,Yes
+TXN100242,1632,Pune,Credit Card,Food,144163,Success,2025-05-07 02:39:00,Yes
+TXN100243,1627,Chennai,Debit Card,Healthcare,68444,Success,2025-03-21 05:12:00,No
+TXN100244,1972,Delhi,IMPS,Entertainment,105046,Success,2025-05-06 22:59:00,Yes
+TXN100245,1744,Delhi,Net Banking,Entertainment,36693,Success,2025-02-23 21:15:00,No
+TXN100246,1258,Kolkata,IMPS,Bills,36404,Pending,2025-01-28 15:34:00,No
+TXN100247,1358,Ahmedabad,Net Banking,Food,161558,Success,2025-06-22 13:07:00,Yes
+TXN100248,1709,Mumbai,NEFT,Travel,186392,Success,2025-03-26 07:20:00,Yes
+TXN100249,1455,Kolkata,UPI,Food,113713,Failed,2025-06-02 08:00:00,Yes
+TXN100250,1410,Hyderabad,NEFT,Shopping,152255,Success,2025-05-14 22:50:00,Yes
+TXN100251,1648,Bangalore,Credit Card,Food,18454,Success,2025-03-05 22:42:00,No
+TXN100252,1317,Pune,Credit Card,Shopping,22290,Success,2025-04-17 22:31:00,No
+TXN100253,1676,Kolkata,Net Banking,Shopping,6242,Success,2025-06-07 12:42:00,No
+TXN100254,1224,Mumbai,Debit Card,Travel,159570,Success,2025-05-26 22:14:00,Yes
+TXN100255,1818,Mumbai,Debit Card,Healthcare,183143,Success,2025-05-29 06:22:00,Yes
+TXN100256,1233,Kolkata,Net Banking,Bills,41962,Success,2025-04-01 12:43:00,No
+TXN100257,1683,Chennai,Credit Card,Food,184582,Success,2025-03-29 18:46:00,Yes
+TXN100258,1663,Pune,Credit Card,Shopping,150675,Failed,2025-06-17 18:41:00,Yes
+TXN100259,1974,Chennai,Credit Card,Food,125538,Success,2025-05-15 17:47:00,Yes
+TXN100260,1826,Bangalore,NEFT,Healthcare,48556,Success,2025-03-25 05:26:00,No
+TXN100261,1373,Mumbai,Credit Card,Bills,100267,Failed,2025-05-17 20:44:00,Yes
+TXN100262,1671,Mumbai,IMPS,Healthcare,82135,Success,2025-02-26 20:25:00,No
+TXN100263,1607,Hyderabad,UPI,Bills,8116,Pending,2025-02-09 15:44:00,No
+TXN100264,1471,Bangalore,Credit Card,Entertainment,2484,Success,2025-03-18 16:22:00,No
+TXN100265,1232,Mumbai,Net Banking,Bills,193492,Success,2025-05-28 04:53:00,Yes
+TXN100266,1691,Bangalore,UPI,Travel,146244,Success,2025-04-27 16:27:00,Yes
+TXN100267,1112,Pune,NEFT,Healthcare,102339,Success,2025-06-18 01:24:00,Yes
+TXN100268,1829,Delhi,Net Banking,Shopping,111531,Success,2025-02-27 17:40:00,Yes
+TXN100269,1496,Mumbai,UPI,Entertainment,80118,Pending,2025-05-14 10:56:00,No
+TXN100270,1441,Hyderabad,Net Banking,Travel,40610,Success,2025-02-07 05:44:00,No
+TXN100271,1563,Pune,NEFT,Food,180105,Success,2025-03-16 13:01:00,Yes
+TXN100272,1267,Kolkata,IMPS,Healthcare,21926,Failed,2025-06-17 02:54:00,No
+TXN100273,1509,Bangalore,NEFT,Shopping,68126,Success,2025-04-27 02:32:00,No
+TXN100274,1806,Kolkata,NEFT,Bills,121768,Success,2025-06-01 18:17:00,Yes
+TXN100275,1385,Chennai,Net Banking,Shopping,156690,Failed,2025-04-26 23:44:00,Yes
+TXN100276,1386,Pune,Debit Card,Food,24145,Success,2025-02-04 00:35:00,No
+TXN100277,1112,Kolkata,Credit Card,Entertainment,182048,Success,2025-06-02 12:48:00,Yes
+TXN100278,1612,Ahmedabad,Credit Card,Entertainment,90202,Failed,2025-05-06 10:33:00,No
+TXN100279,1624,Ahmedabad,IMPS,Healthcare,52019,Success,2025-03-30 15:33:00,No
+TXN100280,1951,Mumbai,IMPS,Entertainment,99541,Success,2025-05-27 22:18:00,No
+TXN100281,1080,Bangalore,Credit Card,Healthcare,158275,Success,2025-01-25 15:53:00,Yes
+TXN100282,1698,Delhi,Debit Card,Healthcare,167360,Success,2025-03-14 00:41:00,Yes
+TXN100283,1112,Pune,Credit Card,Healthcare,137017,Failed,2025-05-27 00:33:00,Yes
+TXN100284,1001,Mumbai,Debit Card,Bills,167846,Success,2025-03-21 11:39:00,Yes
+TXN100285,1641,Hyderabad,IMPS,Travel,118425,Success,2025-05-26 01:24:00,Yes
+TXN100286,1219,Chennai,UPI,Healthcare,19437,Success,2025-05-05 12:05:00,No
+TXN100287,1565,Bangalore,Net Banking,Healthcare,153485,Success,2025-01-21 05:31:00,Yes
+TXN100288,1854,Pune,IMPS,Travel,158115,Success,2025-04-15 15:42:00,Yes
+TXN100289,1996,Ahmedabad,IMPS,Shopping,78049,Success,2025-02-08 09:09:00,No
+TXN100290,1735,Pune,NEFT,Healthcare,376,Success,2025-01-30 19:17:00,No
+TXN100291,1224,Delhi,NEFT,Bills,51251,Success,2025-03-29 19:08:00,No
+TXN100292,1384,Ahmedabad,NEFT,Entertainment,148783,Success,2025-01-15 03:39:00,Yes
+TXN100293,1402,Delhi,Net Banking,Entertainment,143116,Success,2025-01-09 12:08:00,Yes
+TXN100294,1637,Hyderabad,NEFT,Food,52987,Success,2025-06-03 03:16:00,No
+TXN100295,1129,Chennai,Debit Card,Food,81542,Success,2025-01-16 14:34:00,No
+TXN100296,1052,Hyderabad,Credit Card,Entertainment,49947,Success,2025-05-01 19:04:00,No
+TXN100297,1683,Mumbai,UPI,Entertainment,58753,Success,2025-01-05 19:14:00,No
+TXN100298,1729,Mumbai,IMPS,Bills,56722,Success,2025-05-26 14:01:00,No
+TXN100299,1671,Hyderabad,Debit Card,Travel,27910,Success,2025-04-03 12:03:00,No
+TXN100300,1709,Chennai,UPI,Food,77942,Success,2025-06-19 12:09:00,No
+TXN100301,1415,Hyderabad,Debit Card,Travel,122325,Success,2025-04-05 08:07:00,Yes
+TXN100302,1246,Chennai,Debit Card,Bills,10603,Success,2025-03-08 15:45:00,No
+TXN100303,1835,Chennai,IMPS,Entertainment,84861,Success,2025-01-09 20:10:00,No
+TXN100304,1438,Kolkata,Credit Card,Healthcare,168148,Pending,2025-04-09 04:41:00,Yes
+TXN100305,1202,Ahmedabad,NEFT,Travel,126539,Success,2025-05-21 03:55:00,Yes
+TXN100306,1183,Bangalore,Net Banking,Entertainment,11690,Success,2025-05-21 11:36:00,No
+TXN100307,1122,Chennai,Credit Card,Entertainment,142058,Pending,2025-03-15 23:08:00,Yes
+TXN100308,1400,Delhi,Net Banking,Shopping,144038,Success,2025-02-21 06:01:00,Yes
+TXN100309,1766,Chennai,IMPS,Travel,66724,Failed,2025-02-25 22:38:00,No
+TXN100310,1293,Chennai,IMPS,Healthcare,163964,Success,2025-02-09 06:20:00,Yes
+TXN100311,1279,Chennai,IMPS,Travel,140936,Success,2025-05-31 13:25:00,Yes
+TXN100312,1836,Kolkata,UPI,Entertainment,120456,Success,2025-06-28 04:54:00,Yes
+TXN100313,1883,Ahmedabad,Net Banking,Healthcare,42827,Success,2025-03-30 17:19:00,No
+TXN100314,1609,Kolkata,Credit Card,Bills,78571,Success,2025-05-10 12:57:00,No
+TXN100315,1197,Mumbai,Credit Card,Shopping,8168,Success,2025-04-13 09:54:00,No
+TXN100316,1981,Kolkata,Debit Card,Entertainment,117023,Success,2025-03-11 02:57:00,Yes
+TXN100317,1906,Delhi,Debit Card,Food,138467,Success,2025-04-09 17:10:00,Yes
+TXN100318,1510,Delhi,Debit Card,Food,172332,Success,2025-04-28 19:04:00,Yes
+TXN100319,1751,Kolkata,IMPS,Shopping,11490,Success,2025-02-28 18:46:00,No
+TXN100320,1143,Ahmedabad,Credit Card,Bills,106852,Failed,2025-03-03 15:23:00,Yes
+TXN100321,1608,Hyderabad,Net Banking,Entertainment,151303,Success,2025-04-15 03:14:00,Yes
+TXN100322,1200,Bangalore,IMPS,Travel,94854,Success,2025-02-04 22:13:00,No
+TXN100323,1123,Ahmedabad,UPI,Shopping,76069,Success,2025-06-26 18:37:00,No
+TXN100324,1186,Kolkata,Debit Card,Bills,146210,Success,2025-04-10 06:29:00,Yes
+TXN100325,1325,Chennai,IMPS,Travel,183499,Success,2025-02-18 15:46:00,Yes
+TXN100326,1463,Pune,IMPS,Food,77164,Success,2025-06-28 07:17:00,No
+TXN100327,1348,Bangalore,UPI,Food,21381,Success,2025-03-21 19:18:00,No
+TXN100328,1770,Bangalore,NEFT,Travel,54289,Success,2025-02-11 16:44:00,No
+TXN100329,1659,Delhi,Credit Card,Shopping,48611,Success,2025-01-07 09:33:00,No
+TXN100330,1763,Bangalore,Net Banking,Food,122215,Success,2025-02-05 05:23:00,Yes
+TXN100331,1954,Kolkata,NEFT,Entertainment,8705,Success,2025-05-26 22:05:00,No
+TXN100332,1931,Chennai,Debit Card,Healthcare,100418,Success,2025-01-29 22:16:00,Yes
+TXN100333,1402,Chennai,IMPS,Travel,132553,Success,2025-06-23 23:10:00,Yes
+TXN100334,1345,Mumbai,UPI,Travel,197806,Success,2025-01-26 18:33:00,Yes
+TXN100335,1962,Chennai,UPI,Food,19910,Success,2025-01-28 02:10:00,No
+TXN100336,1510,Ahmedabad,Credit Card,Shopping,155494,Success,2025-06-15 13:50:00,Yes
+TXN100337,1146,Chennai,NEFT,Entertainment,41969,Success,2025-03-31 15:20:00,No
+TXN100338,1147,Delhi,Credit Card,Shopping,33055,Success,2025-02-23 23:38:00,No
+TXN100339,1863,Chennai,IMPS,Bills,61488,Success,2025-02-28 07:50:00,No
+TXN100340,1710,Mumbai,Credit Card,Bills,10307,Success,2025-01-20 15:31:00,No
+TXN100341,1819,Pune,Net Banking,Healthcare,198800,Success,2025-02-28 06:08:00,Yes
+TXN100342,1488,Kolkata,UPI,Food,159392,Success,2025-04-19 00:28:00,Yes
+TXN100343,1928,Delhi,UPI,Food,22131,Success,2025-02-25 21:03:00,No
+TXN100344,1935,Ahmedabad,Debit Card,Food,80907,Success,2025-02-04 02:53:00,No
+TXN100345,1639,Pune,Debit Card,Healthcare,71412,Success,2025-04-14 06:26:00,No
+TXN100346,1550,Delhi,IMPS,Bills,59866,Success,2025-01-01 15:37:00,No
+TXN100347,1337,Hyderabad,Net Banking,Shopping,143621,Success,2025-06-21 22:40:00,Yes
+TXN100348,1871,Bangalore,NEFT,Healthcare,89933,Failed,2025-05-03 10:41:00,No
+TXN100349,1640,Hyderabad,Credit Card,Healthcare,187871,Success,2025-04-27 00:49:00,Yes
+TXN100350,1778,Chennai,IMPS,Shopping,111141,Success,2025-03-04 03:36:00,Yes
+TXN100351,1987,Pune,Debit Card,Food,116285,Success,2025-05-07 16:34:00,Yes
+TXN100352,1952,Chennai,Credit Card,Entertainment,177264,Success,2025-06-25 04:47:00,Yes
+TXN100353,1472,Bangalore,Debit Card,Shopping,194843,Success,2025-01-03 19:46:00,Yes
+TXN100354,1945,Delhi,Credit Card,Bills,10450,Success,2025-04-09 19:13:00,No
+TXN100355,1150,Bangalore,NEFT,Travel,100959,Success,2025-04-22 16:59:00,Yes
+TXN100356,1414,Mumbai,IMPS,Travel,68587,Success,2025-01-24 19:22:00,No
+TXN100357,1989,Bangalore,Credit Card,Healthcare,148794,Success,2025-03-23 17:53:00,Yes
+TXN100358,1297,Mumbai,Net Banking,Travel,123953,Failed,2025-03-20 14:05:00,Yes
+TXN100359,1610,Bangalore,UPI,Entertainment,53217,Failed,2025-01-27 14:49:00,No
+TXN100360,1262,Kolkata,Net Banking,Food,189566,Success,2025-02-05 22:07:00,Yes
+TXN100361,1763,Mumbai,Net Banking,Bills,101184,Success,2025-03-20 02:46:00,Yes
+TXN100362,1143,Pune,UPI,Entertainment,23882,Success,2025-04-15 01:23:00,No
+TXN100363,1345,Chennai,Net Banking,Bills,28554,Success,2025-04-06 19:48:00,No
+TXN100364,1623,Ahmedabad,Credit Card,Bills,68004,Success,2025-01-13 00:33:00,No
+TXN100365,1571,Chennai,Credit Card,Food,130036,Success,2025-03-20 11:13:00,Yes
+TXN100366,1880,Hyderabad,Credit Card,Healthcare,146764,Success,2025-05-01 01:17:00,Yes
+TXN100367,1001,Chennai,UPI,Travel,153345,Pending,2025-06-08 05:13:00,Yes
+TXN100368,1896,Delhi,Net Banking,Food,164376,Success,2025-05-16 21:01:00,Yes
+TXN100369,1303,Kolkata,UPI,Entertainment,166768,Success,2025-04-11 13:24:00,Yes
+TXN100370,1253,Bangalore,Credit Card,Healthcare,165496,Success,2025-02-25 19:20:00,Yes
+TXN100371,1651,Hyderabad,Net Banking,Entertainment,122358,Success,2025-01-22 02:36:00,Yes
+TXN100372,1452,Delhi,Net Banking,Healthcare,111768,Success,2025-01-16 17:57:00,Yes
+TXN100373,1036,Delhi,Debit Card,Entertainment,192374,Success,2025-05-08 16:42:00,Yes
+TXN100374,1159,Mumbai,Debit Card,Food,124284,Success,2025-01-17 15:57:00,Yes
+TXN100375,1008,Chennai,NEFT,Healthcare,161922,Success,2025-05-10 03:20:00,Yes
+TXN100376,1232,Pune,IMPS,Healthcare,16666,Success,2025-06-16 01:29:00,No
+TXN100377,1098,Ahmedabad,Debit Card,Bills,138362,Success,2025-05-14 16:38:00,Yes
+TXN100378,1658,Pune,UPI,Bills,38433,Success,2025-03-10 04:19:00,No
+TXN100379,1815,Hyderabad,Debit Card,Shopping,122029,Success,2025-01-16 18:40:00,Yes
+TXN100380,1207,Kolkata,NEFT,Entertainment,89671,Success,2025-06-14 07:08:00,No
+TXN100381,1130,Pune,Net Banking,Bills,120363,Success,2025-06-19 01:08:00,Yes
+TXN100382,1403,Bangalore,NEFT,Shopping,132761,Success,2025-04-17 03:21:00,Yes
+TXN100383,1151,Pune,Net Banking,Bills,25335,Success,2025-03-05 21:21:00,No
+TXN100384,1053,Hyderabad,Net Banking,Entertainment,259,Pending,2025-06-11 22:28:00,No
+TXN100385,1119,Ahmedabad,IMPS,Healthcare,143317,Success,2025-06-15 13:32:00,Yes
+TXN100386,1672,Pune,Debit Card,Travel,163093,Success,2025-01-18 06:00:00,Yes
+TXN100387,1919,Bangalore,UPI,Entertainment,104959,Success,2025-05-07 00:00:00,Yes
+TXN100388,1627,Mumbai,UPI,Food,147409,Success,2025-05-12 03:17:00,Yes
+TXN100389,1586,Kolkata,Credit Card,Bills,107607,Success,2025-01-27 10:58:00,Yes
+TXN100390,1624,Hyderabad,Net Banking,Bills,139416,Success,2025-02-01 00:27:00,Yes
+TXN100391,1967,Mumbai,UPI,Healthcare,14843,Success,2025-04-16 08:54:00,No
+TXN100392,1419,Mumbai,IMPS,Food,46201,Success,2025-03-11 15:33:00,No
+TXN100393,1421,Mumbai,Net Banking,Healthcare,121634,Failed,2025-03-28 17:41:00,Yes
+TXN100394,1103,Delhi,IMPS,Food,84327,Success,2025-02-25 16:12:00,No
+TXN100395,1851,Kolkata,UPI,Travel,187550,Success,2025-01-18 21:12:00,Yes
+TXN100396,1253,Ahmedabad,UPI,Bills,71226,Failed,2025-04-23 04:42:00,No
+TXN100397,1226,Chennai,Credit Card,Bills,56171,Success,2025-02-08 09:16:00,No
+TXN100398,1111,Kolkata,UPI,Travel,74863,Success,2025-03-20 17:22:00,No
+TXN100399,1509,Delhi,Net Banking,Shopping,143409,Success,2025-01-30 01:57:00,Yes
+TXN100400,1472,Chennai,Net Banking,Healthcare,146821,Success,2025-03-08 06:55:00,Yes
+TXN100401,1098,Kolkata,Net Banking,Travel,168885,Success,2025-05-26 09:06:00,Yes
+TXN100402,1152,Mumbai,Credit Card,Healthcare,176581,Success,2025-02-09 05:21:00,Yes
+TXN100403,1860,Hyderabad,Credit Card,Entertainment,179938,Success,2025-03-09 13:48:00,Yes
+TXN100404,1913,Chennai,UPI,Bills,46254,Success,2025-02-21 17:42:00,No
+TXN100405,1895,Bangalore,NEFT,Healthcare,7116,Success,2025-01-29 20:25:00,No
+TXN100406,1877,Bangalore,NEFT,Food,179860,Success,2025-03-19 08:58:00,Yes
+TXN100407,1337,Pune,Credit Card,Healthcare,89778,Success,2025-06-24 11:41:00,No
+TXN100408,1705,Chennai,UPI,Entertainment,112156,Pending,2025-06-28 23:50:00,Yes
+TXN100409,1821,Hyderabad,NEFT,Bills,54338,Success,2025-05-08 19:23:00,No
+TXN100410,1162,Ahmedabad,UPI,Travel,58708,Failed,2025-06-04 05:07:00,No
+TXN100411,1719,Delhi,UPI,Entertainment,89181,Failed,2025-03-06 21:48:00,No
+TXN100412,1956,Mumbai,UPI,Bills,163069,Success,2025-04-23 23:46:00,Yes
+TXN100413,1680,Pune,Debit Card,Healthcare,51061,Success,2025-03-24 21:56:00,No
+TXN100414,1995,Bangalore,Net Banking,Shopping,199875,Success,2025-03-01 02:29:00,Yes
+TXN100415,1160,Delhi,UPI,Shopping,175929,Success,2025-01-22 10:19:00,Yes
+TXN100416,1579,Delhi,Debit Card,Food,27017,Success,2025-05-06 18:40:00,No
+TXN100417,1800,Mumbai,Credit Card,Bills,153908,Success,2025-02-11 01:00:00,Yes
+TXN100418,1397,Ahmedabad,NEFT,Shopping,28090,Success,2025-01-31 15:17:00,No
+TXN100419,1276,Ahmedabad,Net Banking,Travel,62651,Pending,2025-05-02 16:37:00,No
+TXN100420,1815,Chennai,NEFT,Bills,189333,Failed,2025-05-22 22:24:00,Yes
+TXN100421,1915,Bangalore,Net Banking,Travel,153612,Success,2025-04-20 23:21:00,Yes
+TXN100422,1503,Ahmedabad,NEFT,Travel,166377,Success,2025-02-25 22:18:00,Yes
+TXN100423,1895,Hyderabad,Net Banking,Shopping,80911,Success,2025-02-26 11:33:00,No
+TXN100424,1391,Ahmedabad,NEFT,Bills,55203,Success,2025-02-04 17:00:00,No
+TXN100425,1134,Delhi,NEFT,Healthcare,172799,Success,2025-02-21 20:28:00,Yes
+TXN100426,1194,Mumbai,NEFT,Entertainment,106222,Success,2025-06-14 00:50:00,Yes
+TXN100427,1400,Hyderabad,NEFT,Shopping,19108,Success,2025-05-09 20:52:00,No
+TXN100428,1639,Chennai,Credit Card,Shopping,32502,Failed,2025-01-16 11:58:00,No
+TXN100429,1032,Bangalore,UPI,Healthcare,184556,Success,2025-03-02 21:39:00,Yes
+TXN100430,1687,Chennai,IMPS,Bills,136965,Success,2025-01-26 15:27:00,Yes
+TXN100431,1459,Delhi,Debit Card,Bills,136743,Success,2025-03-06 03:09:00,Yes
+TXN100432,1954,Hyderabad,IMPS,Travel,147381,Success,2025-06-20 16:56:00,Yes
+TXN100433,1882,Hyderabad,IMPS,Healthcare,113650,Success,2025-01-23 06:43:00,Yes
+TXN100434,1469,Hyderabad,Net Banking,Healthcare,174320,Failed,2025-03-12 11:14:00,Yes
+TXN100435,1374,Delhi,UPI,Bills,91318,Success,2025-06-11 13:44:00,No
+TXN100436,1021,Delhi,Net Banking,Travel,133396,Success,2025-03-19 15:06:00,Yes
+TXN100437,1749,Chennai,UPI,Shopping,179867,Success,2025-04-06 18:01:00,Yes
+TXN100438,1669,Pune,UPI,Food,120879,Success,2025-01-10 17:16:00,Yes
+TXN100439,1037,Chennai,NEFT,Entertainment,129814,Success,2025-05-20 05:21:00,Yes
+TXN100440,1229,Bangalore,Credit Card,Shopping,32541,Success,2025-02-01 08:19:00,No
+TXN100441,1364,Mumbai,NEFT,Bills,170301,Success,2025-05-09 21:46:00,Yes
+TXN100442,1562,Hyderabad,Credit Card,Entertainment,62468,Success,2025-02-27 05:18:00,No
+TXN100443,1437,Pune,Net Banking,Food,92222,Success,2025-05-26 05:44:00,No
+TXN100444,1775,Mumbai,Credit Card,Food,44860,Success,2025-04-07 22:22:00,No
+TXN100445,1282,Pune,Net Banking,Travel,23578,Failed,2025-06-03 12:06:00,No
+TXN100446,1026,Ahmedabad,IMPS,Entertainment,127981,Success,2025-03-20 11:26:00,Yes
+TXN100447,1225,Ahmedabad,IMPS,Travel,71954,Success,2025-01-26 00:14:00,No
+TXN100448,1276,Kolkata,Credit Card,Shopping,94330,Success,2025-02-05 12:54:00,No
+TXN100449,1797,Ahmedabad,Credit Card,Healthcare,85816,Success,2025-03-10 01:54:00,No
+TXN100450,1608,Chennai,Net Banking,Healthcare,143352,Success,2025-05-02 00:15:00,Yes
+TXN100451,1283,Ahmedabad,NEFT,Healthcare,98638,Success,2025-03-28 05:54:00,No
+TXN100452,1878,Delhi,Net Banking,Entertainment,15472,Success,2025-03-19 02:14:00,No
+TXN100453,1959,Hyderabad,NEFT,Healthcare,29896,Failed,2025-03-08 22:28:00,No
+TXN100454,1480,Chennai,IMPS,Shopping,189444,Success,2025-02-03 00:40:00,Yes
+TXN100455,1452,Mumbai,UPI,Travel,98926,Failed,2025-06-18 22:06:00,No
+TXN100456,1828,Kolkata,Credit Card,Entertainment,120692,Success,2025-01-03 17:42:00,Yes
+TXN100457,1815,Kolkata,NEFT,Travel,93735,Failed,2025-05-15 08:00:00,No
+TXN100458,1658,Kolkata,Net Banking,Entertainment,111122,Success,2025-03-02 13:51:00,Yes
+TXN100459,1515,Mumbai,IMPS,Travel,54140,Success,2025-01-06 06:09:00,No
+TXN100460,1546,Mumbai,NEFT,Food,75457,Failed,2025-03-12 01:29:00,No
+TXN100461,1191,Mumbai,Net Banking,Travel,78456,Success,2025-05-29 16:32:00,No
+TXN100462,1048,Mumbai,Credit Card,Healthcare,16311,Failed,2025-03-15 18:46:00,No
+TXN100463,1511,Kolkata,Credit Card,Food,105526,Success,2025-06-19 18:11:00,Yes
+TXN100464,1016,Kolkata,Debit Card,Travel,5942,Success,2025-02-25 15:40:00,No
+TXN100465,1171,Pune,UPI,Entertainment,194287,Success,2025-02-01 14:26:00,Yes
+TXN100466,1219,Chennai,Debit Card,Entertainment,66952,Pending,2025-01-28 16:45:00,No
+TXN100467,1157,Hyderabad,IMPS,Entertainment,125837,Success,2025-05-10 03:49:00,Yes
+TXN100468,1476,Ahmedabad,NEFT,Bills,46068,Success,2025-01-13 14:24:00,No
+TXN100469,1045,Ahmedabad,IMPS,Shopping,17608,Success,2025-01-22 00:10:00,No
+TXN100470,1372,Delhi,Net Banking,Entertainment,153177,Success,2025-03-15 04:47:00,Yes
+TXN100471,1517,Kolkata,Credit Card,Food,54675,Success,2025-06-20 20:37:00,No
+TXN100472,1098,Delhi,Debit Card,Entertainment,150143,Success,2025-02-10 12:23:00,Yes
+TXN100473,1891,Chennai,Debit Card,Bills,156771,Success,2025-06-17 13:55:00,Yes
+TXN100474,1744,Chennai,Debit Card,Healthcare,67014,Success,2025-04-07 16:23:00,No
+TXN100475,1036,Delhi,IMPS,Food,67155,Success,2025-02-26 01:31:00,No
+TXN100476,1279,Kolkata,Credit Card,Bills,87797,Failed,2025-05-01 23:08:00,No
+TXN100477,1348,Delhi,NEFT,Healthcare,106339,Success,2025-03-09 16:16:00,Yes
+TXN100478,1496,Ahmedabad,Net Banking,Food,123206,Success,2025-04-27 17:47:00,Yes
+TXN100479,1301,Pune,NEFT,Travel,5455,Success,2025-04-04 07:57:00,No
+TXN100480,1180,Ahmedabad,IMPS,Shopping,54220,Success,2025-03-26 20:17:00,No
+TXN100481,1606,Bangalore,Net Banking,Shopping,38442,Success,2025-06-06 23:09:00,No
+TXN100482,1098,Kolkata,Debit Card,Bills,2357,Success,2025-04-19 16:17:00,No
+TXN100483,1699,Kolkata,UPI,Healthcare,27464,Success,2025-02-11 15:19:00,No
+TXN100484,1992,Hyderabad,IMPS,Shopping,156144,Failed,2025-04-11 12:17:00,Yes
+TXN100485,1115,Mumbai,IMPS,Healthcare,111815,Success,2025-01-17 08:13:00,Yes
+TXN100486,1190,Bangalore,Credit Card,Healthcare,26754,Pending,2025-06-26 03:17:00,No
+TXN100487,1252,Chennai,NEFT,Bills,81523,Failed,2025-05-28 23:55:00,No
+TXN100488,1980,Kolkata,IMPS,Bills,29420,Success,2025-02-16 10:43:00,No
+TXN100489,1927,Delhi,IMPS,Bills,20908,Success,2025-01-09 12:14:00,No
+TXN100490,1982,Bangalore,Debit Card,Shopping,52489,Success,2025-06-04 14:27:00,No
+TXN100491,1160,Hyderabad,Debit Card,Bills,118681,Success,2025-01-19 19:25:00,Yes
+TXN100492,1255,Chennai,Net Banking,Shopping,128027,Success,2025-06-03 13:27:00,Yes
+TXN100493,1322,Mumbai,UPI,Bills,34873,Success,2025-06-26 17:31:00,No
+TXN100494,1127,Mumbai,Credit Card,Entertainment,182340,Success,2025-05-11 01:32:00,Yes
+TXN100495,1017,Hyderabad,UPI,Healthcare,158919,Success,2025-02-11 18:16:00,Yes
+TXN100496,1792,Hyderabad,Net Banking,Bills,76496,Success,2025-06-10 11:48:00,No
+TXN100497,1734,Delhi,Debit Card,Food,107792,Success,2025-03-04 02:42:00,Yes
+TXN100498,1565,Kolkata,NEFT,Healthcare,57605,Failed,2025-02-18 22:25:00,No
+TXN100499,1569,Mumbai,Debit Card,Healthcare,85996,Success,2025-04-09 07:51:00,No
+TXN100500,1322,Chennai,Credit Card,Bills,18235,Success,2025-04-10 20:53:00,No
+TXN100501,1871,Bangalore,Debit Card,Travel,90987,Success,2025-01-07 13:45:00,No
+TXN100502,1685,Chennai,Credit Card,Bills,122218,Success,2025-04-10 15:23:00,Yes
+TXN100503,1791,Pune,Credit Card,Healthcare,47477,Success,2025-02-23 00:48:00,No
+TXN100504,1625,Pune,Credit Card,Food,154726,Pending,2025-01-25 09:53:00,Yes
+TXN100505,1287,Hyderabad,Net Banking,Healthcare,62591,Success,2025-05-24 07:28:00,No
+TXN100506,1942,Delhi,Credit Card,Food,186793,Success,2025-04-02 05:15:00,Yes
+TXN100507,1853,Pune,Credit Card,Shopping,58383,Success,2025-05-28 15:06:00,No
+TXN100508,1662,Mumbai,NEFT,Entertainment,17023,Failed,2025-03-19 10:25:00,No
+TXN100509,1961,Chennai,UPI,Healthcare,47691,Success,2025-03-31 13:06:00,No
+TXN100510,1638,Chennai,IMPS,Bills,62361,Success,2025-06-10 12:19:00,No
+TXN100511,1154,Hyderabad,UPI,Shopping,54436,Success,2025-03-04 02:51:00,No
+TXN100512,1489,Kolkata,Credit Card,Entertainment,74183,Success,2025-03-09 10:01:00,No
+TXN100513,1385,Kolkata,NEFT,Bills,61048,Success,2025-05-22 11:29:00,No
+TXN100514,1985,Bangalore,Debit Card,Travel,164174,Success,2025-02-18 11:25:00,Yes
+TXN100515,1784,Hyderabad,NEFT,Bills,26772,Failed,2025-02-13 00:12:00,No
+TXN100516,1103,Ahmedabad,Credit Card,Food,4313,Success,2025-03-19 23:33:00,No
+TXN100517,1928,Bangalore,NEFT,Food,141465,Success,2025-01-26 20:27:00,Yes
+TXN100518,1392,Ahmedabad,NEFT,Travel,187032,Success,2025-02-17 03:39:00,Yes
+TXN100519,1810,Kolkata,Credit Card,Shopping,62607,Success,2025-03-07 09:08:00,No
+TXN100520,1245,Hyderabad,Net Banking,Entertainment,57234,Success,2025-03-28 14:12:00,No
+TXN100521,1175,Ahmedabad,NEFT,Bills,133272,Success,2025-01-23 16:47:00,Yes
+TXN100522,1038,Hyderabad,IMPS,Food,193169,Failed,2025-05-04 01:19:00,Yes
+TXN100523,1476,Hyderabad,IMPS,Shopping,28272,Success,2025-01-20 13:02:00,No
+TXN100524,1681,Kolkata,NEFT,Travel,20232,Success,2025-01-12 07:01:00,No
+TXN100525,1758,Bangalore,Net Banking,Healthcare,18299,Success,2025-04-10 13:15:00,No
+TXN100526,1537,Bangalore,Debit Card,Food,36709,Success,2025-03-24 01:43:00,No
+TXN100527,1866,Hyderabad,Credit Card,Travel,174137,Success,2025-05-14 12:35:00,Yes
+TXN100528,1817,Pune,IMPS,Bills,139188,Success,2025-01-22 17:11:00,Yes
+TXN100529,1920,Delhi,Debit Card,Entertainment,170951,Success,2025-06-29 21:29:00,Yes
+TXN100530,1407,Kolkata,NEFT,Food,31981,Failed,2025-04-27 18:39:00,No
+TXN100531,1524,Delhi,Debit Card,Food,24572,Success,2025-03-12 15:18:00,No
+TXN100532,1827,Delhi,UPI,Bills,182985,Success,2025-01-06 19:26:00,Yes
+TXN100533,1505,Bangalore,IMPS,Healthcare,167193,Success,2025-02-22 10:36:00,Yes
+TXN100534,1902,Bangalore,NEFT,Shopping,54231,Pending,2025-02-17 06:58:00,No
+TXN100535,1824,Pune,Credit Card,Entertainment,155259,Success,2025-03-10 10:14:00,Yes
+TXN100536,1035,Delhi,Net Banking,Food,12928,Success,2025-05-11 04:22:00,No
+TXN100537,1684,Delhi,NEFT,Entertainment,192782,Success,2025-02-06 08:14:00,Yes
+TXN100538,1019,Hyderabad,Credit Card,Food,96764,Success,2025-05-11 05:16:00,No
+TXN100539,1320,Bangalore,Net Banking,Entertainment,132573,Success,2025-06-03 20:07:00,Yes
+TXN100540,1775,Delhi,Net Banking,Travel,15293,Success,2025-05-29 10:37:00,No
+TXN100541,1511,Chennai,NEFT,Food,176036,Success,2025-03-13 09:23:00,Yes
+TXN100542,1399,Pune,Debit Card,Entertainment,151479,Success,2025-05-05 02:54:00,Yes
+TXN100543,1653,Ahmedabad,Debit Card,Shopping,102618,Success,2025-01-14 22:13:00,Yes
+TXN100544,1971,Chennai,Net Banking,Travel,19711,Success,2025-01-10 11:37:00,No
+TXN100545,1882,Chennai,Debit Card,Travel,174963,Success,2025-04-18 22:45:00,Yes
+TXN100546,1470,Ahmedabad,UPI,Shopping,143122,Success,2025-02-03 08:09:00,Yes
+TXN100547,1142,Kolkata,Net Banking,Entertainment,76340,Pending,2025-05-02 16:16:00,No
+TXN100548,1091,Kolkata,Net Banking,Bills,2845,Success,2025-04-25 00:11:00,No
+TXN100549,1353,Pune,Credit Card,Shopping,55343,Failed,2025-04-13 03:41:00,No
+TXN100550,1833,Chennai,Debit Card,Entertainment,3966,Success,2025-05-21 01:41:00,No
+TXN100551,1799,Delhi,Net Banking,Shopping,163417,Success,2025-03-26 21:56:00,Yes
+TXN100552,1726,Bangalore,UPI,Shopping,175896,Pending,2025-05-12 17:04:00,Yes
+TXN100553,1958,Pune,Credit Card,Food,128781,Success,2025-01-19 01:11:00,Yes
+TXN100554,1853,Hyderabad,NEFT,Entertainment,71454,Success,2025-03-22 09:33:00,No
+TXN100555,1050,Ahmedabad,Net Banking,Bills,51474,Success,2025-01-06 07:50:00,No
+TXN100556,1664,Chennai,UPI,Food,114497,Success,2025-01-11 11:08:00,Yes
+TXN100557,1697,Pune,IMPS,Shopping,124677,Success,2025-01-02 07:57:00,Yes
+TXN100558,1574,Mumbai,UPI,Healthcare,161288,Success,2025-05-19 20:35:00,Yes
+TXN100559,1189,Mumbai,UPI,Shopping,81129,Success,2025-01-10 20:19:00,No
+TXN100560,1124,Kolkata,Credit Card,Shopping,93674,Success,2025-04-22 07:35:00,No
+TXN100561,1149,Ahmedabad,NEFT,Entertainment,151619,Success,2025-04-16 11:13:00,Yes
+TXN100562,1313,Bangalore,IMPS,Entertainment,30531,Success,2025-03-27 20:43:00,No
+TXN100563,1569,Delhi,Debit Card,Food,149080,Success,2025-02-19 06:19:00,Yes
+TXN100564,1341,Bangalore,Debit Card,Bills,29436,Success,2025-03-28 06:08:00,No
+TXN100565,1304,Bangalore,UPI,Food,41092,Failed,2025-05-09 05:37:00,No
+TXN100566,1691,Bangalore,Credit Card,Travel,55450,Success,2025-02-13 21:43:00,No
+TXN100567,1681,Ahmedabad,Credit Card,Shopping,69661,Pending,2025-03-15 22:57:00,No
+TXN100568,1837,Bangalore,Debit Card,Healthcare,52055,Success,2025-05-14 16:50:00,No
+TXN100569,1782,Hyderabad,IMPS,Shopping,61340,Success,2025-02-07 23:50:00,No
+TXN100570,1053,Ahmedabad,NEFT,Shopping,151265,Success,2025-01-10 23:07:00,Yes
+TXN100571,1443,Hyderabad,IMPS,Food,137327,Success,2025-05-29 23:05:00,Yes
+TXN100572,1612,Ahmedabad,Net Banking,Healthcare,46707,Success,2025-03-26 06:23:00,No
+TXN100573,1992,Kolkata,Net Banking,Healthcare,164659,Success,2025-02-02 17:55:00,Yes
+TXN100574,1263,Pune,NEFT,Healthcare,186840,Success,2025-02-26 19:31:00,Yes
+TXN100575,1052,Mumbai,Debit Card,Food,152135,Pending,2025-02-17 09:26:00,Yes
+TXN100576,1571,Bangalore,NEFT,Shopping,181296,Success,2025-03-15 13:56:00,Yes
+TXN100577,1619,Kolkata,Credit Card,Food,52970,Success,2025-06-29 09:31:00,No
+TXN100578,1004,Pune,Net Banking,Entertainment,187719,Success,2025-01-26 10:22:00,Yes
+TXN100579,1102,Mumbai,UPI,Entertainment,64210,Success,2025-02-26 19:39:00,No
+TXN100580,1195,Chennai,UPI,Food,184726,Success,2025-05-06 22:28:00,Yes
+TXN100581,1773,Delhi,Debit Card,Healthcare,152108,Success,2025-01-31 06:39:00,Yes
+TXN100582,1876,Hyderabad,Credit Card,Shopping,116995,Failed,2025-02-02 20:01:00,Yes
+TXN100583,1991,Chennai,IMPS,Food,4526,Success,2025-01-18 14:32:00,No
+TXN100584,1883,Ahmedabad,Credit Card,Food,27706,Success,2025-03-25 02:50:00,No
+TXN100585,1349,Mumbai,UPI,Food,179004,Success,2025-04-24 21:17:00,Yes
+TXN100586,1046,Chennai,UPI,Travel,28251,Success,2025-04-20 23:07:00,No
+TXN100587,1866,Delhi,Net Banking,Entertainment,11408,Success,2025-05-05 11:52:00,No
+TXN100588,1822,Kolkata,Credit Card,Healthcare,193694,Success,2025-05-18 22:51:00,Yes
+TXN100589,1935,Mumbai,Credit Card,Bills,176843,Success,2025-06-26 10:01:00,Yes
+TXN100590,1819,Chennai,UPI,Healthcare,90406,Success,2025-06-13 00:46:00,No
+TXN100591,1655,Hyderabad,IMPS,Bills,107084,Success,2025-01-13 07:24:00,Yes
+TXN100592,1268,Hyderabad,Debit Card,Travel,2304,Success,2025-03-09 09:18:00,No
+TXN100593,1369,Pune,Debit Card,Food,92869,Success,2025-04-04 18:57:00,No
+TXN100594,1635,Chennai,Credit Card,Travel,87365,Success,2025-01-23 21:15:00,No
+TXN100595,1105,Bangalore,Debit Card,Travel,31231,Success,2025-03-06 11:23:00,No
+TXN100596,1669,Chennai,UPI,Shopping,52528,Failed,2025-02-03 20:56:00,No
+TXN100597,1658,Kolkata,UPI,Entertainment,33970,Failed,2025-05-16 17:56:00,No
+TXN100598,1656,Mumbai,Credit Card,Bills,103647,Success,2025-04-22 04:25:00,Yes
+TXN100599,1119,Mumbai,Credit Card,Food,49167,Success,2025-06-07 21:12:00,No
+TXN100600,1830,Kolkata,Net Banking,Bills,189757,Success,2025-03-24 02:25:00,Yes
+TXN100601,1786,Chennai,Credit Card,Healthcare,112317,Success,2025-04-14 11:01:00,Yes
+TXN100602,1603,Kolkata,IMPS,Bills,152779,Failed,2025-04-18 17:12:00,Yes
+TXN100603,1057,Delhi,Debit Card,Healthcare,156140,Success,2025-01-02 04:06:00,Yes
+TXN100604,1950,Ahmedabad,Credit Card,Entertainment,99034,Pending,2025-01-26 23:11:00,No
+TXN100605,1345,Kolkata,NEFT,Healthcare,143080,Failed,2025-01-16 22:39:00,Yes
+TXN100606,1740,Hyderabad,Net Banking,Bills,157595,Success,2025-03-14 14:36:00,Yes
+TXN100607,1473,Kolkata,NEFT,Bills,74807,Success,2025-05-21 04:10:00,No
+TXN100608,1116,Mumbai,UPI,Healthcare,61315,Success,2025-03-15 19:12:00,No
+TXN100609,1829,Hyderabad,Debit Card,Travel,187007,Failed,2025-06-18 20:45:00,Yes
+TXN100610,1790,Mumbai,Credit Card,Entertainment,49529,Success,2025-06-27 14:41:00,No
+TXN100611,1126,Pune,NEFT,Shopping,82252,Failed,2025-05-07 06:39:00,No
+TXN100612,1392,Bangalore,Debit Card,Food,108148,Success,2025-06-05 02:14:00,Yes
+TXN100613,1907,Mumbai,UPI,Bills,169630,Success,2025-03-26 05:00:00,Yes
+TXN100614,1640,Hyderabad,IMPS,Food,177341,Failed,2025-05-12 10:43:00,Yes
+TXN100615,1057,Pune,Net Banking,Shopping,138831,Success,2025-01-26 04:22:00,Yes
+TXN100616,1633,Mumbai,Debit Card,Food,191786,Success,2025-03-26 15:44:00,Yes
+TXN100617,1512,Delhi,Debit Card,Shopping,77340,Success,2025-06-17 12:22:00,No
+TXN100618,1750,Kolkata,IMPS,Healthcare,163965,Success,2025-05-03 15:29:00,Yes
+TXN100619,1801,Bangalore,Debit Card,Travel,113788,Success,2025-03-09 07:15:00,Yes
+TXN100620,1095,Mumbai,UPI,Bills,46573,Success,2025-06-08 20:41:00,No
+TXN100621,1637,Pune,UPI,Shopping,96862,Failed,2025-06-02 11:11:00,No
+TXN100622,1117,Delhi,IMPS,Food,107056,Failed,2025-03-31 04:47:00,Yes
+TXN100623,1559,Chennai,Net Banking,Bills,118552,Success,2025-04-07 08:11:00,Yes
+TXN100624,1600,Pune,Credit Card,Travel,186923,Success,2025-03-10 21:51:00,Yes
+TXN100625,1487,Kolkata,NEFT,Healthcare,126411,Success,2025-01-28 23:34:00,Yes
+TXN100626,1236,Pune,Credit Card,Bills,185426,Success,2025-04-20 01:12:00,Yes
+TXN100627,1884,Delhi,Debit Card,Shopping,7106,Pending,2025-04-13 09:44:00,No
+TXN100628,1896,Pune,NEFT,Travel,74318,Success,2025-04-22 13:10:00,No
+TXN100629,1271,Delhi,IMPS,Food,196516,Success,2025-02-11 05:03:00,Yes
+TXN100630,1188,Mumbai,IMPS,Travel,165012,Success,2025-02-02 06:55:00,Yes
+TXN100631,1998,Ahmedabad,Net Banking,Travel,32530,Success,2025-04-15 07:36:00,No
+TXN100632,1703,Delhi,NEFT,Entertainment,23191,Success,2025-02-20 09:42:00,No
+TXN100633,1446,Delhi,UPI,Travel,164155,Success,2025-05-01 14:37:00,Yes
+TXN100634,1580,Bangalore,NEFT,Travel,24089,Success,2025-05-23 04:28:00,No
+TXN100635,1789,Delhi,Debit Card,Bills,75551,Success,2025-03-24 21:50:00,No
+TXN100636,1860,Delhi,UPI,Food,19090,Success,2025-01-10 11:53:00,No
+TXN100637,1246,Chennai,IMPS,Bills,90370,Success,2025-01-04 17:15:00,No
+TXN100638,1962,Ahmedabad,NEFT,Bills,80460,Success,2025-02-05 22:11:00,No
+TXN100639,1075,Mumbai,Credit Card,Shopping,36181,Success,2025-04-08 03:36:00,No
+TXN100640,1153,Kolkata,Net Banking,Bills,142205,Success,2025-01-09 20:17:00,Yes
+TXN100641,1655,Bangalore,Credit Card,Entertainment,108372,Success,2025-06-20 02:56:00,Yes
+TXN100642,1434,Chennai,Net Banking,Entertainment,16341,Success,2025-04-15 13:03:00,No
+TXN100643,1996,Hyderabad,Debit Card,Shopping,125032,Success,2025-04-03 08:44:00,Yes
+TXN100644,1085,Ahmedabad,Credit Card,Healthcare,6039,Failed,2025-06-27 14:27:00,No
+TXN100645,1696,Mumbai,NEFT,Food,113100,Failed,2025-06-19 15:11:00,Yes
+TXN100646,1284,Mumbai,NEFT,Food,178734,Success,2025-04-26 04:33:00,Yes
+TXN100647,1973,Hyderabad,Credit Card,Bills,35163,Failed,2025-01-01 06:31:00,No
+TXN100648,1219,Kolkata,NEFT,Bills,158217,Success,2025-01-17 15:58:00,Yes
+TXN100649,1068,Delhi,Debit Card,Healthcare,175941,Success,2025-04-01 23:34:00,Yes
+TXN100650,1046,Chennai,UPI,Bills,47218,Success,2025-06-23 09:53:00,No
+TXN100651,1093,Pune,Debit Card,Food,84803,Success,2025-06-16 16:37:00,No
+TXN100652,1749,Bangalore,Net Banking,Travel,152797,Success,2025-05-31 21:03:00,Yes
+TXN100653,1957,Pune,Debit Card,Entertainment,128657,Success,2025-06-26 08:03:00,Yes
+TXN100654,1452,Hyderabad,Net Banking,Travel,27176,Success,2025-05-10 16:23:00,No
+TXN100655,1203,Mumbai,NEFT,Travel,195977,Success,2025-05-06 14:30:00,Yes
+TXN100656,1911,Kolkata,UPI,Food,44705,Success,2025-04-21 07:47:00,No
+TXN100657,1217,Mumbai,NEFT,Travel,84665,Failed,2025-02-20 10:33:00,No
+TXN100658,1473,Bangalore,IMPS,Healthcare,39221,Success,2025-06-26 15:56:00,No
+TXN100659,1431,Mumbai,NEFT,Shopping,196273,Success,2025-04-21 12:14:00,Yes
+TXN100660,1340,Mumbai,Net Banking,Bills,31533,Success,2025-01-27 03:15:00,No
+TXN100661,1550,Bangalore,NEFT,Shopping,43409,Success,2025-06-07 03:02:00,No
+TXN100662,1611,Chennai,NEFT,Entertainment,67568,Success,2025-04-23 21:49:00,No
+TXN100663,1288,Chennai,UPI,Bills,175426,Success,2025-05-04 16:11:00,Yes
+TXN100664,1253,Bangalore,NEFT,Travel,67393,Success,2025-02-24 20:55:00,No
+TXN100665,1733,Kolkata,UPI,Entertainment,96358,Success,2025-04-05 11:30:00,No
+TXN100666,1356,Hyderabad,Credit Card,Bills,169025,Success,2025-03-28 21:52:00,Yes
+TXN100667,1022,Ahmedabad,IMPS,Healthcare,38505,Success,2025-03-25 14:22:00,No
+TXN100668,1761,Mumbai,UPI,Healthcare,197824,Success,2025-06-05 15:36:00,Yes
+TXN100669,1521,Kolkata,Net Banking,Healthcare,43627,Success,2025-05-29 14:16:00,No
+TXN100670,1757,Mumbai,Credit Card,Healthcare,77327,Success,2025-02-06 12:18:00,No
+TXN100671,1836,Ahmedabad,UPI,Travel,131664,Success,2025-06-07 12:17:00,Yes
+TXN100672,1099,Hyderabad,UPI,Shopping,139983,Failed,2025-03-03 03:35:00,Yes
+TXN100673,1801,Chennai,IMPS,Bills,93444,Failed,2025-02-21 18:44:00,No
+TXN100674,1179,Kolkata,Net Banking,Travel,155444,Pending,2025-02-13 06:56:00,Yes
+TXN100675,1222,Delhi,Debit Card,Healthcare,47253,Success,2025-06-21 20:03:00,No
+TXN100676,1905,Delhi,Debit Card,Shopping,108142,Success,2025-02-03 01:04:00,Yes
+TXN100677,1761,Ahmedabad,UPI,Entertainment,54210,Success,2025-02-24 09:31:00,No
+TXN100678,1658,Delhi,NEFT,Entertainment,145151,Success,2025-02-11 08:12:00,Yes
+TXN100679,1441,Chennai,Net Banking,Entertainment,28428,Success,2025-05-02 09:09:00,No
+TXN100680,1607,Ahmedabad,Credit Card,Healthcare,113011,Success,2025-04-12 18:20:00,Yes
+TXN100681,1768,Chennai,NEFT,Entertainment,12967,Failed,2025-05-16 00:27:00,No
+TXN100682,1324,Hyderabad,NEFT,Food,59334,Success,2025-04-23 06:13:00,No
+TXN100683,1515,Mumbai,Net Banking,Bills,25951,Failed,2025-03-26 20:48:00,No
+TXN100684,1015,Hyderabad,UPI,Bills,31379,Success,2025-01-09 16:04:00,No
+TXN100685,1791,Hyderabad,UPI,Healthcare,73502,Success,2025-02-27 19:39:00,No
+TXN100686,1335,Chennai,UPI,Food,15549,Success,2025-06-15 10:18:00,No
+TXN100687,1758,Ahmedabad,UPI,Travel,76321,Success,2025-02-19 00:12:00,No
+TXN100688,1257,Ahmedabad,Debit Card,Travel,89180,Success,2025-03-19 23:32:00,No
+TXN100689,1496,Delhi,UPI,Entertainment,5551,Success,2025-02-12 16:35:00,No
+TXN100690,1987,Pune,Debit Card,Shopping,87278,Success,2025-05-02 11:09:00,No
+TXN100691,1895,Mumbai,Debit Card,Travel,172488,Success,2025-04-05 05:56:00,Yes
+TXN100692,1159,Chennai,UPI,Shopping,194236,Failed,2025-05-09 06:57:00,Yes
+TXN100693,1474,Delhi,IMPS,Bills,63861,Success,2025-01-21 15:55:00,No
+TXN100694,1851,Kolkata,Credit Card,Shopping,38970,Failed,2025-04-26 19:37:00,No
+TXN100695,1663,Pune,NEFT,Bills,96666,Success,2025-01-25 04:55:00,No
+TXN100696,1907,Pune,Debit Card,Food,123849,Success,2025-01-21 17:46:00,Yes
+TXN100697,1689,Chennai,Net Banking,Food,123865,Success,2025-02-26 18:32:00,Yes
+TXN100698,1674,Bangalore,Net Banking,Healthcare,124981,Success,2025-05-11 09:20:00,Yes
+TXN100699,1379,Mumbai,Credit Card,Healthcare,162045,Success,2025-02-09 02:24:00,Yes
+TXN100700,1544,Pune,Net Banking,Entertainment,128489,Success,2025-05-07 12:37:00,Yes
+TXN100701,1928,Chennai,IMPS,Travel,189799,Success,2025-02-24 19:51:00,Yes
+TXN100702,1956,Chennai,Net Banking,Entertainment,197327,Success,2025-06-21 12:33:00,Yes
+TXN100703,1690,Delhi,NEFT,Bills,25472,Success,2025-04-22 22:05:00,No
+TXN100704,1426,Kolkata,NEFT,Entertainment,3742,Success,2025-04-25 20:12:00,No
+TXN100705,1612,Bangalore,Debit Card,Shopping,159173,Success,2025-03-28 08:16:00,Yes
+TXN100706,1267,Mumbai,UPI,Bills,34164,Success,2025-03-07 18:18:00,No
+TXN100707,1834,Ahmedabad,IMPS,Healthcare,14222,Success,2025-05-15 21:41:00,No
+TXN100708,1576,Hyderabad,Debit Card,Food,155992,Success,2025-02-11 19:08:00,Yes
+TXN100709,1416,Kolkata,IMPS,Healthcare,68531,Success,2025-01-17 14:01:00,No
+TXN100710,1167,Kolkata,UPI,Travel,55845,Success,2025-03-04 03:18:00,No
+TXN100711,1841,Delhi,Net Banking,Bills,50181,Success,2025-01-17 04:38:00,No
+TXN100712,1042,Ahmedabad,Net Banking,Bills,139883,Success,2025-04-27 21:58:00,Yes
+TXN100713,1555,Pune,UPI,Shopping,149965,Success,2025-03-22 06:35:00,Yes
+TXN100714,1284,Pune,Debit Card,Travel,139371,Success,2025-06-17 12:03:00,Yes
+TXN100715,1396,Delhi,UPI,Food,76353,Failed,2025-06-02 04:29:00,No
+TXN100716,1011,Chennai,Credit Card,Bills,36291,Success,2025-01-29 08:03:00,No
+TXN100717,1606,Pune,NEFT,Bills,10311,Success,2025-02-20 23:13:00,No
+TXN100718,1301,Bangalore,Debit Card,Shopping,111186,Success,2025-03-10 17:41:00,Yes
+TXN100719,1897,Mumbai,IMPS,Entertainment,194241,Success,2025-02-26 18:11:00,Yes
+TXN100720,1252,Kolkata,Credit Card,Food,187918,Success,2025-01-17 23:10:00,Yes
+TXN100721,1498,Kolkata,Debit Card,Healthcare,152714,Success,2025-04-09 22:16:00,Yes
+TXN100722,1753,Bangalore,UPI,Travel,162484,Success,2025-05-09 14:31:00,Yes
+TXN100723,1034,Ahmedabad,UPI,Bills,176414,Success,2025-01-09 14:27:00,Yes
+TXN100724,1726,Pune,UPI,Bills,102071,Success,2025-06-01 02:21:00,Yes
+TXN100725,1848,Kolkata,UPI,Healthcare,93883,Success,2025-01-27 18:44:00,No
+TXN100726,1089,Hyderabad,IMPS,Food,125781,Success,2025-03-17 19:00:00,Yes
+TXN100727,1775,Ahmedabad,Credit Card,Entertainment,87993,Success,2025-06-26 12:00:00,No
+TXN100728,1604,Mumbai,Net Banking,Bills,186560,Pending,2025-01-10 14:58:00,Yes
+TXN100729,1921,Mumbai,NEFT,Food,158863,Success,2025-02-28 06:59:00,Yes
+TXN100730,1969,Kolkata,IMPS,Healthcare,78060,Pending,2025-03-27 17:47:00,No
+TXN100731,1601,Delhi,IMPS,Shopping,84488,Failed,2025-06-23 17:58:00,No
+TXN100732,1417,Ahmedabad,Net Banking,Entertainment,22701,Success,2025-06-16 16:28:00,No
+TXN100733,1114,Kolkata,Net Banking,Travel,149192,Success,2025-03-23 11:07:00,Yes
+TXN100734,1616,Delhi,NEFT,Bills,139327,Success,2025-02-23 01:06:00,Yes
+TXN100735,1902,Kolkata,NEFT,Food,167949,Success,2025-06-13 17:59:00,Yes
+TXN100736,1195,Hyderabad,Net Banking,Shopping,19810,Success,2025-02-07 08:58:00,No
+TXN100737,1825,Ahmedabad,UPI,Travel,108814,Success,2025-06-28 02:17:00,Yes
+TXN100738,1500,Chennai,IMPS,Food,155704,Success,2025-05-13 13:27:00,Yes
+TXN100739,1625,Mumbai,Debit Card,Food,128827,Success,2025-06-07 03:38:00,Yes
+TXN100740,1492,Kolkata,NEFT,Travel,149773,Failed,2025-06-02 11:01:00,Yes
+TXN100741,1074,Hyderabad,NEFT,Shopping,63327,Success,2025-05-30 22:47:00,No
+TXN100742,1412,Delhi,Net Banking,Healthcare,136139,Success,2025-05-28 05:54:00,Yes
+TXN100743,1375,Delhi,Credit Card,Shopping,84389,Success,2025-03-09 14:23:00,No
+TXN100744,1419,Mumbai,Debit Card,Entertainment,151194,Failed,2025-01-01 06:56:00,Yes
+TXN100745,1728,Bangalore,Debit Card,Bills,174635,Success,2025-04-05 11:41:00,Yes
+TXN100746,1276,Kolkata,NEFT,Travel,5822,Success,2025-05-13 11:49:00,No
+TXN100747,1760,Ahmedabad,UPI,Healthcare,158585,Success,2025-02-11 05:59:00,Yes
+TXN100748,1675,Pune,Credit Card,Travel,81150,Success,2025-05-20 06:17:00,No
+TXN100749,1393,Delhi,Debit Card,Travel,83696,Success,2025-03-15 14:29:00,No
+TXN100750,1868,Ahmedabad,NEFT,Shopping,66832,Failed,2025-04-18 16:03:00,No
+TXN100751,1456,Ahmedabad,Debit Card,Bills,143469,Success,2025-03-12 08:30:00,Yes
+TXN100752,1919,Chennai,Credit Card,Entertainment,68423,Success,2025-04-29 01:05:00,No
+TXN100753,1191,Ahmedabad,Credit Card,Food,23916,Failed,2025-02-14 18:33:00,No
+TXN100754,1738,Ahmedabad,IMPS,Food,40795,Success,2025-02-13 14:13:00,No
+TXN100755,1688,Chennai,Net Banking,Travel,150874,Success,2025-03-11 17:36:00,Yes
+TXN100756,1098,Delhi,Net Banking,Bills,156414,Failed,2025-06-09 02:02:00,Yes
+TXN100757,1547,Ahmedabad,NEFT,Healthcare,55941,Success,2025-03-27 09:50:00,No
+TXN100758,1977,Bangalore,Credit Card,Shopping,128598,Success,2025-03-08 11:28:00,Yes
+TXN100759,1998,Bangalore,IMPS,Bills,198884,Success,2025-06-25 16:06:00,Yes
+TXN100760,1095,Hyderabad,IMPS,Bills,107196,Success,2025-01-13 23:01:00,Yes
+TXN100761,1663,Chennai,Debit Card,Shopping,92864,Success,2025-01-04 09:38:00,No
+TXN100762,1662,Hyderabad,Debit Card,Travel,184746,Success,2025-03-29 16:51:00,Yes
+TXN100763,1189,Chennai,IMPS,Bills,85844,Success,2025-05-14 18:04:00,No
+TXN100764,1735,Kolkata,Debit Card,Food,28582,Failed,2025-05-17 12:18:00,No
+TXN100765,1036,Kolkata,Credit Card,Shopping,9271,Success,2025-01-21 23:37:00,No
+TXN100766,1779,Ahmedabad,UPI,Healthcare,100855,Failed,2025-01-04 23:58:00,Yes
+TXN100767,1368,Pune,Credit Card,Entertainment,108225,Success,2025-01-03 03:56:00,Yes
+TXN100768,1694,Kolkata,IMPS,Travel,130822,Success,2025-04-11 07:47:00,Yes
+TXN100769,1524,Pune,IMPS,Shopping,106182,Success,2025-02-23 02:30:00,Yes
+TXN100770,1278,Kolkata,Credit Card,Entertainment,3796,Success,2025-02-25 11:24:00,No
+TXN100771,1216,Mumbai,Debit Card,Entertainment,126410,Success,2025-02-09 12:03:00,Yes
+TXN100772,1866,Kolkata,Debit Card,Healthcare,151230,Failed,2025-02-15 13:12:00,Yes
+TXN100773,1872,Hyderabad,Net Banking,Bills,151485,Success,2025-06-04 05:16:00,Yes
+TXN100774,1797,Delhi,IMPS,Healthcare,19249,Success,2025-06-13 07:48:00,No
+TXN100775,1272,Ahmedabad,NEFT,Bills,130164,Success,2025-04-09 16:40:00,Yes
+TXN100776,1880,Hyderabad,Net Banking,Bills,53621,Success,2025-01-02 12:51:00,No
+TXN100777,1061,Delhi,Debit Card,Shopping,45840,Success,2025-03-07 19:27:00,No
+TXN100778,1595,Bangalore,Credit Card,Shopping,106711,Success,2025-06-20 21:46:00,Yes
+TXN100779,1879,Hyderabad,Debit Card,Travel,136128,Success,2025-04-17 22:02:00,Yes
+TXN100780,1728,Bangalore,Credit Card,Bills,66741,Success,2025-05-20 23:04:00,No
+TXN100781,1341,Pune,Net Banking,Entertainment,63911,Success,2025-03-25 06:38:00,No
+TXN100782,1396,Pune,IMPS,Food,183332,Success,2025-01-13 08:56:00,Yes
+TXN100783,1698,Mumbai,Debit Card,Travel,182485,Success,2025-01-12 12:55:00,Yes
+TXN100784,1018,Kolkata,Credit Card,Shopping,63332,Failed,2025-04-07 07:53:00,No
+TXN100785,1176,Hyderabad,IMPS,Healthcare,15517,Success,2025-03-21 12:34:00,No
+TXN100786,1611,Bangalore,NEFT,Travel,155901,Success,2025-01-03 23:04:00,Yes
+TXN100787,1395,Delhi,Credit Card,Travel,112592,Success,2025-01-11 06:52:00,Yes
+TXN100788,1444,Pune,Net Banking,Travel,30199,Success,2025-05-18 09:51:00,No
+TXN100789,1232,Kolkata,NEFT,Travel,161133,Failed,2025-06-11 02:07:00,Yes
+TXN100790,1914,Pune,NEFT,Food,143774,Success,2025-01-31 10:44:00,Yes
+TXN100791,1075,Delhi,UPI,Healthcare,118574,Success,2025-03-12 12:01:00,Yes
+TXN100792,1264,Kolkata,Debit Card,Healthcare,9356,Success,2025-03-11 08:31:00,No
+TXN100793,1454,Kolkata,Credit Card,Healthcare,34781,Success,2025-01-20 01:49:00,No
+TXN100794,1795,Bangalore,NEFT,Bills,91428,Success,2025-06-02 11:06:00,No
+TXN100795,1717,Bangalore,UPI,Entertainment,195961,Success,2025-02-08 16:44:00,Yes
+TXN100796,1734,Hyderabad,Net Banking,Healthcare,43461,Success,2025-05-19 05:22:00,No
+TXN100797,1383,Hyderabad,IMPS,Travel,195675,Success,2025-04-01 13:05:00,Yes
+TXN100798,1563,Chennai,Credit Card,Travel,34640,Success,2025-06-15 01:21:00,No
+TXN100799,1850,Ahmedabad,NEFT,Healthcare,157708,Failed,2025-03-25 14:59:00,Yes
+TXN100800,1505,Chennai,Debit Card,Healthcare,84800,Success,2025-04-23 07:36:00,No
+TXN100801,1366,Mumbai,UPI,Travel,194215,Success,2025-02-18 19:32:00,Yes
+TXN100802,1143,Pune,NEFT,Bills,78632,Success,2025-01-22 17:46:00,No
+TXN100803,1884,Hyderabad,Debit Card,Shopping,187747,Failed,2025-05-13 06:17:00,Yes
+TXN100804,1068,Bangalore,NEFT,Shopping,127726,Success,2025-06-15 21:52:00,Yes
+TXN100805,1098,Delhi,Credit Card,Healthcare,134043,Failed,2025-02-06 18:30:00,Yes
+TXN100806,1395,Bangalore,Credit Card,Food,46102,Success,2025-03-05 09:14:00,No
+TXN100807,1024,Pune,Credit Card,Healthcare,49912,Success,2025-06-19 15:43:00,No
+TXN100808,1947,Chennai,Net Banking,Healthcare,153798,Success,2025-03-23 22:32:00,Yes
+TXN100809,1890,Bangalore,Net Banking,Shopping,191151,Success,2025-01-16 21:37:00,Yes
+TXN100810,1468,Ahmedabad,UPI,Travel,109046,Success,2025-06-12 01:27:00,Yes
+TXN100811,1483,Mumbai,Credit Card,Healthcare,66768,Success,2025-01-02 12:40:00,No
+TXN100812,1564,Pune,Debit Card,Travel,99103,Success,2025-02-28 04:54:00,No
+TXN100813,1150,Chennai,NEFT,Travel,43098,Success,2025-04-02 20:38:00,No
+TXN100814,1143,Ahmedabad,IMPS,Food,194986,Success,2025-02-14 19:23:00,Yes
+TXN100815,1568,Delhi,Debit Card,Travel,104701,Success,2025-04-01 12:26:00,Yes
+TXN100816,1038,Chennai,Net Banking,Shopping,176779,Success,2025-06-03 06:41:00,Yes
+TXN100817,1108,Kolkata,Net Banking,Bills,7912,Success,2025-02-16 20:58:00,No
+TXN100818,1692,Ahmedabad,Debit Card,Bills,61944,Success,2025-02-07 04:22:00,No
+TXN100819,1041,Ahmedabad,Net Banking,Entertainment,133351,Success,2025-02-22 14:31:00,Yes
+TXN100820,1185,Mumbai,Credit Card,Healthcare,174970,Pending,2025-06-03 15:30:00,Yes
+TXN100821,1934,Pune,UPI,Shopping,74701,Success,2025-05-27 08:28:00,No
+TXN100822,1397,Delhi,NEFT,Travel,139447,Success,2025-05-05 18:38:00,Yes
+TXN100823,1222,Mumbai,UPI,Bills,181746,Success,2025-01-04 02:55:00,Yes
+TXN100824,1633,Chennai,NEFT,Shopping,47957,Failed,2025-03-05 19:10:00,No
+TXN100825,1132,Mumbai,NEFT,Bills,125655,Success,2025-04-07 05:57:00,Yes
+TXN100826,1162,Ahmedabad,UPI,Travel,20800,Success,2025-06-04 00:20:00,No
+TXN100827,1214,Pune,Debit Card,Bills,170636,Failed,2025-02-08 05:45:00,Yes
+TXN100828,1732,Hyderabad,NEFT,Healthcare,173523,Success,2025-03-07 03:10:00,Yes
+TXN100829,1234,Mumbai,UPI,Healthcare,93430,Success,2025-04-21 17:58:00,No
+TXN100830,1842,Kolkata,NEFT,Entertainment,145041,Success,2025-04-09 02:30:00,Yes
+TXN100831,1657,Mumbai,IMPS,Entertainment,191487,Success,2025-06-05 06:00:00,Yes
+TXN100832,1750,Chennai,Debit Card,Bills,152126,Success,2025-01-25 10:37:00,Yes
+TXN100833,1587,Chennai,Credit Card,Shopping,162727,Success,2025-03-25 02:50:00,Yes
+TXN100834,1008,Delhi,NEFT,Healthcare,63453,Success,2025-05-10 17:43:00,No
+TXN100835,1073,Chennai,IMPS,Shopping,176198,Failed,2025-03-10 08:01:00,Yes
+TXN100836,1953,Bangalore,Credit Card,Shopping,100872,Success,2025-06-11 05:30:00,Yes
+TXN100837,1491,Pune,Credit Card,Bills,178148,Success,2025-01-10 17:11:00,Yes
+TXN100838,1912,Pune,NEFT,Shopping,91602,Success,2025-06-13 21:20:00,No
+TXN100839,1252,Hyderabad,UPI,Healthcare,114043,Success,2025-02-18 14:05:00,Yes
+TXN100840,1229,Hyderabad,NEFT,Travel,109950,Success,2025-06-26 02:09:00,Yes
+TXN100841,1518,Pune,IMPS,Entertainment,45195,Success,2025-05-13 13:25:00,No
+TXN100842,1173,Kolkata,Credit Card,Travel,145442,Success,2025-03-31 05:43:00,Yes
+TXN100843,1652,Hyderabad,NEFT,Shopping,162080,Success,2025-01-26 07:04:00,Yes
+TXN100844,1167,Delhi,UPI,Travel,15623,Success,2025-01-15 15:00:00,No
+TXN100845,1169,Chennai,NEFT,Healthcare,62533,Success,2025-05-24 04:02:00,No
+TXN100846,1392,Pune,Debit Card,Healthcare,178240,Success,2025-06-29 14:30:00,Yes
+TXN100847,1945,Ahmedabad,UPI,Shopping,20091,Success,2025-01-13 23:15:00,No
+TXN100848,1794,Hyderabad,IMPS,Bills,10875,Success,2025-02-24 10:20:00,No
+TXN100849,1633,Pune,Credit Card,Travel,85095,Failed,2025-03-07 21:26:00,No
+TXN100850,1193,Bangalore,NEFT,Bills,192422,Success,2025-06-15 05:45:00,Yes
+TXN100851,1516,Mumbai,UPI,Bills,147845,Success,2025-05-19 07:07:00,Yes
+TXN100852,1028,Chennai,Debit Card,Food,122908,Success,2025-04-07 20:06:00,Yes
+TXN100853,1164,Pune,UPI,Shopping,158228,Success,2025-03-05 05:20:00,Yes
+TXN100854,1421,Mumbai,Net Banking,Entertainment,137786,Success,2025-04-25 21:20:00,Yes
+TXN100855,1338,Hyderabad,Debit Card,Healthcare,7515,Failed,2025-01-20 07:57:00,No
+TXN100856,1647,Mumbai,IMPS,Healthcare,175056,Success,2025-02-15 17:56:00,Yes
+TXN100857,1495,Chennai,Credit Card,Shopping,148136,Success,2025-04-03 15:08:00,Yes
+TXN100858,1364,Pune,IMPS,Entertainment,168898,Success,2025-01-15 09:28:00,Yes
+TXN100859,1832,Bangalore,NEFT,Healthcare,37144,Success,2025-03-21 03:19:00,No
+TXN100860,1341,Kolkata,UPI,Shopping,188321,Success,2025-04-19 21:36:00,Yes
+TXN100861,1499,Hyderabad,Net Banking,Healthcare,168716,Success,2025-03-27 06:22:00,Yes
+TXN100862,1656,Pune,Debit Card,Bills,50076,Success,2025-06-18 07:28:00,No
+TXN100863,1510,Chennai,Debit Card,Travel,163424,Success,2025-03-21 05:27:00,Yes
+TXN100864,1326,Hyderabad,UPI,Travel,3932,Success,2025-06-25 05:30:00,No
+TXN100865,1216,Delhi,Net Banking,Healthcare,34248,Success,2025-01-14 20:32:00,No
+TXN100866,1300,Mumbai,UPI,Food,192412,Failed,2025-03-14 23:12:00,Yes
+TXN100867,1131,Kolkata,NEFT,Entertainment,112330,Success,2025-03-31 18:48:00,Yes
+TXN100868,1803,Chennai,IMPS,Entertainment,85176,Success,2025-06-20 07:22:00,No
+TXN100869,1069,Delhi,Debit Card,Entertainment,184631,Success,2025-05-13 09:06:00,Yes
+TXN100870,1251,Ahmedabad,NEFT,Bills,38502,Failed,2025-02-11 03:40:00,No
+TXN100871,1414,Pune,IMPS,Entertainment,188899,Pending,2025-01-27 13:01:00,Yes
+TXN100872,1786,Bangalore,NEFT,Travel,38678,Success,2025-01-25 08:52:00,No
+TXN100873,1444,Hyderabad,Net Banking,Bills,90553,Success,2025-06-04 00:22:00,No
+TXN100874,1875,Mumbai,Debit Card,Shopping,153490,Success,2025-03-15 09:51:00,Yes
+TXN100875,1181,Hyderabad,UPI,Entertainment,75815,Success,2025-06-02 21:02:00,No
+TXN100876,1166,Kolkata,UPI,Entertainment,111535,Success,2025-01-06 05:52:00,Yes
+TXN100877,1090,Pune,IMPS,Shopping,151638,Success,2025-03-07 17:22:00,Yes
+TXN100878,1713,Hyderabad,Credit Card,Entertainment,95842,Success,2025-01-02 11:21:00,No
+TXN100879,1857,Mumbai,Net Banking,Shopping,45575,Success,2025-02-06 19:38:00,No
+TXN100880,1530,Pune,IMPS,Bills,60242,Success,2025-01-24 15:19:00,No
+TXN100881,1038,Hyderabad,Credit Card,Travel,157736,Failed,2025-03-06 00:16:00,Yes
+TXN100882,1125,Bangalore,NEFT,Shopping,153584,Success,2025-05-09 20:51:00,Yes
+TXN100883,1450,Chennai,Net Banking,Food,93626,Success,2025-04-15 14:02:00,No
+TXN100884,1172,Pune,NEFT,Shopping,51101,Success,2025-02-15 22:10:00,No
+TXN100885,1652,Chennai,Debit Card,Entertainment,57749,Success,2025-02-14 12:00:00,No
+TXN100886,1753,Ahmedabad,Net Banking,Bills,192129,Success,2025-01-24 09:34:00,Yes
+TXN100887,1219,Pune,Credit Card,Healthcare,166689,Success,2025-01-24 03:15:00,Yes
+TXN100888,1637,Bangalore,Debit Card,Bills,144328,Pending,2025-01-16 16:50:00,Yes
+TXN100889,1057,Chennai,UPI,Healthcare,154236,Success,2025-05-24 14:56:00,Yes
+TXN100890,1659,Delhi,Credit Card,Shopping,25811,Success,2025-01-11 00:14:00,No
+TXN100891,1475,Mumbai,IMPS,Travel,30206,Success,2025-04-25 03:42:00,No
+TXN100892,1455,Delhi,UPI,Food,65558,Success,2025-03-10 02:12:00,No
+TXN100893,1828,Hyderabad,UPI,Bills,147761,Success,2025-05-18 10:17:00,Yes
+TXN100894,1894,Bangalore,IMPS,Entertainment,130529,Success,2025-04-13 08:41:00,Yes
+TXN100895,1360,Delhi,Net Banking,Healthcare,101854,Success,2025-06-27 22:06:00,Yes
+TXN100896,1934,Pune,UPI,Entertainment,138386,Success,2025-02-28 06:02:00,Yes
+TXN100897,1000,Hyderabad,Credit Card,Travel,126579,Success,2025-01-07 16:25:00,Yes
+TXN100898,1386,Hyderabad,Debit Card,Healthcare,158299,Success,2025-06-10 04:47:00,Yes
+TXN100899,1972,Delhi,UPI,Bills,136313,Success,2025-03-20 01:40:00,Yes
+TXN100900,1347,Ahmedabad,Credit Card,Shopping,28984,Success,2025-05-07 06:31:00,No
+TXN100901,1189,Delhi,NEFT,Entertainment,2808,Success,2025-05-12 19:49:00,No
+TXN100902,1504,Ahmedabad,Credit Card,Travel,18475,Success,2025-04-27 03:31:00,No
+TXN100903,1190,Bangalore,Debit Card,Bills,15188,Failed,2025-01-28 12:00:00,No
+TXN100904,1507,Mumbai,Credit Card,Bills,57715,Success,2025-02-25 02:47:00,No
+TXN100905,1368,Delhi,IMPS,Bills,110238,Success,2025-01-30 21:35:00,Yes
+TXN100906,1408,Kolkata,Debit Card,Bills,176218,Failed,2025-03-21 18:00:00,Yes
+TXN100907,1823,Ahmedabad,Net Banking,Healthcare,10114,Success,2025-03-10 18:21:00,No
+TXN100908,1928,Delhi,NEFT,Bills,195597,Success,2025-04-17 12:51:00,Yes
+TXN100909,1933,Chennai,IMPS,Entertainment,134445,Success,2025-04-11 20:35:00,Yes
+TXN100910,1116,Pune,Net Banking,Travel,178307,Success,2025-06-13 03:35:00,Yes
+TXN100911,1133,Kolkata,Credit Card,Healthcare,102942,Success,2025-06-29 20:17:00,Yes
+TXN100912,1057,Kolkata,Debit Card,Bills,162053,Success,2025-06-27 15:40:00,Yes
+TXN100913,1555,Ahmedabad,NEFT,Food,78177,Success,2025-05-26 21:01:00,No
+TXN100914,1684,Chennai,IMPS,Food,139884,Success,2025-01-21 03:43:00,Yes
+TXN100915,1671,Chennai,Net Banking,Travel,52974,Failed,2025-04-13 14:38:00,No
+TXN100916,1172,Hyderabad,Net Banking,Shopping,69187,Success,2025-01-29 21:25:00,No
+TXN100917,1828,Ahmedabad,NEFT,Shopping,12397,Failed,2025-03-26 16:15:00,No
+TXN100918,1814,Mumbai,Credit Card,Healthcare,27228,Success,2025-06-08 18:08:00,No
+TXN100919,1148,Pune,NEFT,Healthcare,68468,Success,2025-02-18 04:01:00,No
+TXN100920,1079,Bangalore,Net Banking,Healthcare,79058,Success,2025-06-25 13:13:00,No
+TXN100921,1885,Kolkata,UPI,Shopping,33020,Success,2025-02-28 00:34:00,No
+TXN100922,1212,Bangalore,IMPS,Food,142328,Success,2025-04-13 14:50:00,Yes
+TXN100923,1202,Delhi,NEFT,Shopping,142280,Success,2025-01-02 18:40:00,Yes
+TXN100924,1763,Delhi,Net Banking,Entertainment,163017,Success,2025-05-03 04:17:00,Yes
+TXN100925,1228,Bangalore,Credit Card,Bills,133972,Failed,2025-05-24 03:11:00,Yes
+TXN100926,1675,Delhi,Net Banking,Healthcare,173884,Success,2025-01-29 06:13:00,Yes
+TXN100927,1226,Mumbai,Credit Card,Food,133782,Success,2025-01-12 02:04:00,Yes
+TXN100928,1658,Chennai,NEFT,Travel,77703,Success,2025-03-22 09:31:00,No
+TXN100929,1531,Delhi,Credit Card,Travel,33972,Success,2025-03-15 10:16:00,No
+TXN100930,1440,Hyderabad,Debit Card,Bills,10828,Success,2025-03-10 12:41:00,No
+TXN100931,1401,Delhi,Debit Card,Food,95202,Success,2025-05-17 16:32:00,No
+TXN100932,1046,Pune,Debit Card,Shopping,122149,Success,2025-04-10 17:08:00,Yes
+TXN100933,1232,Mumbai,UPI,Shopping,20683,Pending,2025-03-03 17:13:00,No
+TXN100934,1304,Pune,NEFT,Entertainment,85874,Success,2025-06-02 14:05:00,No
+TXN100935,1525,Pune,Net Banking,Entertainment,138435,Success,2025-04-30 09:28:00,Yes
+TXN100936,1142,Hyderabad,Net Banking,Shopping,126474,Success,2025-03-20 03:17:00,Yes
+TXN100937,1414,Mumbai,UPI,Travel,198622,Success,2025-06-26 11:38:00,Yes
+TXN100938,1512,Mumbai,Credit Card,Healthcare,150628,Success,2025-03-16 13:02:00,Yes
+TXN100939,1372,Ahmedabad,UPI,Travel,91218,Success,2025-04-24 09:37:00,No
+TXN100940,1565,Mumbai,Credit Card,Entertainment,66042,Failed,2025-06-22 09:17:00,No
+TXN100941,1885,Mumbai,Credit Card,Bills,13789,Success,2025-01-20 15:24:00,No
+TXN100942,1258,Mumbai,IMPS,Shopping,164106,Success,2025-02-26 05:12:00,Yes
+TXN100943,1655,Hyderabad,Net Banking,Entertainment,33376,Failed,2025-04-29 13:32:00,No
+TXN100944,1470,Delhi,Debit Card,Entertainment,102068,Success,2025-04-02 19:36:00,Yes
+TXN100945,1952,Ahmedabad,Credit Card,Healthcare,151045,Success,2025-01-08 11:33:00,Yes
+TXN100946,1970,Pune,IMPS,Shopping,13150,Success,2025-05-13 21:04:00,No
+TXN100947,1011,Mumbai,Net Banking,Healthcare,66316,Success,2025-06-08 12:08:00,No
+TXN100948,1329,Kolkata,Debit Card,Shopping,84140,Success,2025-02-01 00:02:00,No
+TXN100949,1735,Delhi,Credit Card,Healthcare,21744,Success,2025-01-30 17:11:00,No
+TXN100950,1783,Delhi,Credit Card,Travel,62121,Success,2025-01-29 02:25:00,No
+TXN100951,1967,Pune,UPI,Bills,168297,Success,2025-01-30 08:25:00,Yes
+TXN100952,1357,Hyderabad,UPI,Bills,198071,Success,2025-05-10 02:45:00,Yes
+TXN100953,1971,Bangalore,Net Banking,Shopping,42391,Success,2025-03-09 18:12:00,No
+TXN100954,1407,Bangalore,Debit Card,Food,166232,Success,2025-02-13 02:54:00,Yes
+TXN100955,1667,Delhi,Credit Card,Entertainment,132710,Success,2025-05-17 01:53:00,Yes
+TXN100956,1372,Chennai,Net Banking,Entertainment,167348,Success,2025-02-10 11:30:00,Yes
+TXN100957,1007,Chennai,Net Banking,Shopping,41620,Success,2025-02-16 01:31:00,No
+TXN100958,1121,Pune,NEFT,Healthcare,25775,Success,2025-03-18 13:04:00,No
+TXN100959,1347,Bangalore,UPI,Food,149459,Failed,2025-02-27 09:43:00,Yes
+TXN100960,1675,Delhi,Debit Card,Travel,274,Success,2025-03-15 23:42:00,No
+TXN100961,1089,Hyderabad,Credit Card,Healthcare,92368,Success,2025-05-07 01:36:00,No
+TXN100962,1647,Bangalore,Net Banking,Healthcare,35098,Success,2025-01-30 06:05:00,No
+TXN100963,1697,Delhi,Credit Card,Shopping,184484,Success,2025-04-28 22:02:00,Yes
+TXN100964,1315,Delhi,NEFT,Shopping,143284,Success,2025-05-21 02:25:00,Yes
+TXN100965,1177,Mumbai,Debit Card,Entertainment,105510,Failed,2025-02-26 23:52:00,Yes
+TXN100966,1539,Hyderabad,Net Banking,Shopping,75325,Success,2025-02-12 16:41:00,No
+TXN100967,1731,Mumbai,Credit Card,Shopping,44914,Success,2025-01-11 06:33:00,No
+TXN100968,1868,Pune,UPI,Shopping,85191,Success,2025-05-26 20:35:00,No
+TXN100969,1040,Mumbai,NEFT,Entertainment,50819,Failed,2025-04-14 19:45:00,No
+TXN100970,1739,Kolkata,Debit Card,Travel,129987,Success,2025-02-13 21:52:00,Yes
+TXN100971,1703,Mumbai,NEFT,Travel,34019,Failed,2025-04-24 10:59:00,No
+TXN100972,1922,Kolkata,UPI,Shopping,73255,Success,2025-01-30 07:33:00,No
+TXN100973,1501,Bangalore,Debit Card,Entertainment,71669,Success,2025-02-26 14:08:00,No
+TXN100974,1958,Chennai,NEFT,Travel,41428,Success,2025-04-25 19:39:00,No
+TXN100975,1144,Ahmedabad,IMPS,Healthcare,24718,Success,2025-01-25 18:04:00,No
+TXN100976,1200,Ahmedabad,UPI,Travel,34775,Success,2025-03-16 14:07:00,No
+TXN100977,1928,Delhi,UPI,Travel,19019,Success,2025-06-04 07:31:00,No
+TXN100978,1723,Ahmedabad,UPI,Entertainment,4273,Success,2025-01-26 18:49:00,No
+TXN100979,1460,Kolkata,IMPS,Healthcare,109469,Success,2025-06-19 06:59:00,Yes
+TXN100980,1731,Hyderabad,IMPS,Entertainment,26500,Success,2025-06-18 00:18:00,No
+TXN100981,1751,Mumbai,Credit Card,Shopping,181617,Success,2025-04-07 14:15:00,Yes
+TXN100982,1924,Kolkata,Net Banking,Bills,70405,Success,2025-01-23 06:25:00,No
+TXN100983,1908,Hyderabad,NEFT,Travel,168736,Success,2025-04-06 11:07:00,Yes
+TXN100984,1557,Chennai,Credit Card,Bills,176986,Success,2025-05-13 09:27:00,Yes
+TXN100985,1546,Ahmedabad,NEFT,Entertainment,88891,Success,2025-04-27 04:48:00,No
+TXN100986,1252,Chennai,Net Banking,Entertainment,159134,Success,2025-01-26 04:21:00,Yes
+TXN100987,1389,Ahmedabad,IMPS,Entertainment,70633,Success,2025-01-13 00:42:00,No
+TXN100988,1593,Mumbai,Net Banking,Bills,187356,Success,2025-01-23 00:42:00,Yes
+TXN100989,1882,Pune,IMPS,Entertainment,103691,Success,2025-01-18 17:52:00,Yes
+TXN100990,1255,Mumbai,Net Banking,Shopping,141750,Success,2025-01-30 15:12:00,Yes
+TXN100991,1708,Bangalore,Credit Card,Entertainment,131160,Success,2025-02-08 00:25:00,Yes
+TXN100992,1814,Kolkata,Debit Card,Food,149796,Success,2025-06-25 00:48:00,Yes
+TXN100993,1920,Delhi,Credit Card,Bills,39294,Success,2025-06-15 01:48:00,No
+TXN100994,1449,Pune,NEFT,Food,110003,Success,2025-05-14 13:49:00,Yes
+TXN100995,1009,Mumbai,Credit Card,Entertainment,131561,Success,2025-06-15 09:23:00,Yes
+TXN100996,1823,Hyderabad,UPI,Shopping,99403,Success,2025-05-26 08:07:00,No
+TXN100997,1797,Pune,NEFT,Travel,114003,Success,2025-03-15 16:54:00,Yes
+TXN100998,1241,Kolkata,Net Banking,Healthcare,67491,Success,2025-06-06 05:13:00,No
+TXN100999,1250,Ahmedabad,NEFT,Healthcare,144966,Success,2025-05-30 21:05:00,Yes
